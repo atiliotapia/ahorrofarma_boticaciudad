@@ -1,0 +1,340 @@
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\BALANCES.DBF
+Nº registros de datos:        14819   
+Última actualización:          07/12/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   7                             Asc   Machine                      No
+           2    COD_NACION                             Carácter                                                  14                             Asc   Machine                      No
+           3    C_SALDINIC                             Numérico                                                  12                2                                               No
+           4    T_SALDINIC                             Numérico                                                  12                2                                               No
+           5    C_INGRESOS                             Numérico                                                  12                2                                               No
+           6    T_INGRESOS                             Numérico                                                  12                2                                               No
+           7    C_SALI_V_C                             Numérico                                                  12                2                                               No
+           8    T_SALI_V_C                             Numérico                                                  12                2                                               No
+           9    C_SALI_V_R                             Numérico                                                  12                2                                               No
+          10    T_SALI_V_R                             Numérico                                                  12                2                                               No
+          11    C_SALI_E                               Numérico                                                  12                2                                               No
+          12    T_SALI_E                               Numérico                                                  12                2                                               No
+          13    C_SALI_D                               Numérico                                                  12                2                                               No
+          14    T_SALI_D                               Numérico                                                  12                2                                               No
+          15    C_SALI_T                               Numérico                                                  12                2                                               No
+          16    T_SALI_T                               Numérico                                                  12                2                                               No
+          17    C_SALI_O                               Numérico                                                  12                2                                               No
+          18    T_SALI_O                               Numérico                                                  12                2                                               No
+          19    C_SALDFINA                             Numérico                                                  12                2                                               No
+          20    T_SALDFINA                             Numérico                                                  12                2                                               No
+          21    PRECIO_VTA                             Numérico                                                  10                3                                               No
+          22    PRECIO_SAL                             Numérico                                                  10                3                                               No
+          23    MESES                                  Numérico                                                   2                                                                No
+          24    ANIOS                                  Numérico                                                   4                                                                No
+** Total **                                                                                                     264
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\CLIENTES.DBF
+Nº registros de datos:        113     
+Última actualización:          06/18/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   4                             Asc   Machine                      No
+           2    NOMBRE                                 Carácter                                                  50                             Asc   Machine                      No
+           3    R_U_C                                  Carácter                                                  11                             Asc   Machine                      No
+           4    DIRECCION                              Carácter                                                  50                                                                No
+           5    TELEFONO1                              Carácter                                                  10                                                                No
+           6    TELEFONO2                              Carácter                                                  10                                                                No
+           7    FAX                                    Carácter                                                  10                                                                No
+           8    COD_ZONA                               Carácter                                                   2                                                                No
+           9    COD_RUTA                               Carácter                                                   2                                                                No
+          10    TIPO                                   Carácter                                                   1                                                                No
+          11    OBSERVACIO                             Memo                                                       4                                                                No
+          12    COD_ESTAB                              Carácter                                                  10                                                                No
+** Total **                                                                                                     165
+
+Estructura de la tabla:                    C:\SIGEF\SISTMEDI\DATOS\COMPINGR.DBF
+Nº registros de datos:        291     
+Última actualización:          07/07/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   6                             Asc   Machine                      No
+           2    TIPO                                   Carácter                                                   1                                                                No
+           3    FECHA                                  Fecha                                                      8                             Asc   Machine                      No
+           4    PROVIENE                               Carácter                                                   4                                                                No
+           5    CANTIDAD                               Numérico                                                   2                                                                No
+           6    TOTAL                                  Numérico                                                  12                2                                               No
+           7    DIGITADOR                              Carácter                                                   6                                                                No
+           8    OBSERVACIO                             Memo                                                       4                                                                No
+** Total **                                                                                                      44
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\COMPSALI.DBF
+Nº registros de datos:        61      
+Última actualización:          06/24/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   6                             Asc   Machine                      No
+           2    TIPO                                   Carácter                                                   1                                                                No
+           3    FECHA                                  Fecha                                                      8                             Asc   Machine                      No
+           4    CLIENTE                                Carácter                                                   4                                                                No
+           5    CANTIDAD                               Numérico                                                   2                                                                No
+           6    PERSONA                                Carácter                                                  30                                                                No
+           7    TOTAL                                  Numérico                                                  12                2                                               No
+           8    OBSERVACIO                             Memo                                                       4                                                                No
+           9    DIGITADOR                              Carácter                                                   6                                                                No
+** Total **                                                                                                      74
+
+
+Estructura de la tabla:                    C:\SIGEF\SISTMEDI\DATOS\GRUPTERA.DBF
+Nº registros de datos:        24      
+Última actualización:          06/03/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   2                             Asc   Machine                      No
+           2    DESCRIPCIO                             Carácter                                                  40                                                                No
+           3    TIPO                                   Carácter                                                   1                                                                No
+           4    OBSERVACIO                             Memo                                                       4                                                                No
+           5    TOTATEN                                Numérico                                                   6                                                                No
+           6    TOTNOATEN                              Numérico                                                   6                                                                No
+** Total **                                                                                                      60
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\INGRMEDI.DBF
+Nº registros de datos:        2478    
+Última actualización:          07/07/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   6                             Asc   Machine                      No
+           2    CODIGO                                 Carácter                                                   7                             Asc   Machine                      No
+           3    PROVEEDOR                              Carácter                                                   4                                                                No
+           4    I_CANTIDAD                             Numérico                                                  10                2                                               No
+           5    I_PRECIO                               Numérico                                                   9                3                                               No
+           6    I_TOTAL                                Numérico                                                  10                2                                               No
+           7    I_FVEN                                 Carácter                                                   7                                                                No
+           8    I_LOTE                                 Carácter                                                  10                                                                No
+           9    GANANCIA                               Numérico                                                   6                2                                               No
+          10    PREC_VENT                              Numérico                                                   9                2                                               No
+          11    CODI_LABO                              Carácter                                                   4                                                                No
+          12    ACTUALIZAR                             Carácter                                                   1                                                                No
+          13    DIGITADOR                              Carácter                                                   6                                                                No
+          14    HORA                                   DateTime                                                   8                                                                No
+** Total **                                                                                                      98
+
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\INSTITUC.DBF
+Nº registros de datos:        1       
+Última actualización:          06/04/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO_EJE                             Carácter                                                   3                                                                No
+           2    CODIGO_PRE                             Carácter                                                  11                                                                No
+           3    CODIGO_INV                             Carácter                                                   3                                                                No
+           4    FORMATO                                Carácter                                                   1                                                                No
+           5    PTO_DIGITA                             Carácter                                                  15                                                                No
+           6    USUARIO                                Carácter                                                  15                                                                No
+** Total **                                                                                                      49
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\LABORATO.DBF
+Nº registros de datos:        221     
+Última actualización:          06/03/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   4                             Asc   Machine                      No
+           2    DESCRIPCIO                             Carácter                                                  40                             Asc   Machine                      No
+           3    OBSERVAC                               Memo                                                       4                                                                No
+           4    TIPO                                   Carácter                                                   1                                                                No
+** Total **                                                                                                      50
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\MAESMEDI.DBF
+Nº registros de datos:        1314    
+Última actualización:          07/07/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   7                             Asc   Machine                      No
+           2    NOM_COMER                              Carácter                                                  60                             Asc   Machine                      No
+           3    NOM_GENER                              Carácter                                                  60                             Asc   Machine                      No
+           4    CONCENTRAC                             Carácter                                                  30                                                                No
+           5    FORMA                                  Carácter                                                  12                                                                No
+           6    MARCA                                  Carácter                                                  12                                                                No
+           7    COD_LAB                                Carácter                                                   4                                                                No
+           8    STOCK                                  Numérico                                                   9                2                                               No
+           9    COSTO                                  Numérico                                                   9                3                                               No
+          10    TOTAL                                  Numérico                                                  10                2                                               No
+          11    CANT1                                  Numérico                                                   9                2                                               No
+          12    FVEN1                                  Carácter                                                   7                                                                No
+          13    LOTE1                                  Carácter                                                  10                                                                No
+          14    CANT2                                  Numérico                                                   9                2                                               No
+          15    FVEN2                                  Carácter                                                   7                                                                No
+          16    LOTE2                                  Carácter                                                  10                                                                No
+          17    PREC_VENT                              Numérico                                                   9                2                                               No
+          18    GANANCIA                               Numérico                                                   6                2                                               No
+          19    ST_MINIMO                              Numérico                                                   6                                                                No
+          20    ST_MAXIMO                              Numérico                                                   6                                                                No
+          21    COD_NACION                             Carácter                                                  14                             Asc   Machine                      No
+          22    HORA                                   DateTime                                                   8                                                                No
+** Total **                                                                                                     315
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\MEDINACI.DBF
+Nº registros de datos:        12212   
+Última actualización:          06/03/03
+  Página de códigos:          850     
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   5                             Asc   Machine                      No
+           2    MEDICAMENT                             Carácter                                                  65                                                                No
+           3    PRESENTACI                             Carácter                                                  16                                                                No
+           4    CONCENTRAC                             Carácter                                                  50                                                                No
+           5    TIPO                                   Carácter                                                   1                                                                No
+           6    PETITORIO                              Carácter                                                   1                                                                No
+           7    FF                                     Carácter                                                  10                                                                No
+           8    ESTRATEGIC                             Carácter                                                   1                                                                No
+           9    PS                                     Carácter                                                   1                                                                No
+          10    CS                                     Carácter                                                   1                                                                No
+          11    HI                                     Carácter                                                   1                                                                No
+          12    ACTIVO                                 Carácter                                                   1                                                                No
+          13    FECHAUPD                               Fecha                                                      8                                                                No
+          14    CODIGO_PTO                             Carácter                                                  15                                                                No
+** Total **                                                                                                     177
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\MEDINOAT.DBF
+Nº registros de datos:        3328    
+Última actualización:          07/12/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   7                             Asc   Machine                      No
+           2    NOM_COMER                              Carácter                                                  60                             Asc   Machine                      No
+           3    NOM_ESPEC                              Carácter                                                  60                                                                No
+           4    FORMA                                  Carácter                                                  10                                                                No
+           5    COD_LAB                                Carácter                                                   4                                                                No
+           6    LABORAT                                Carácter                                                  20                                                                No
+           7    CANT_STOCK                             Numérico                                                   9                2                                               No
+           8    PREC_VENT                              Numérico                                                   9                2                                               No
+           9    COD_NACION                             Carácter                                                  14                                                                No
+          10    NEWCODNAC                              Numérico                                                   6                                                                No
+** Total **                                                                                                     200
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\MOVIVENT.DBF
+Nº registros de datos:        0       
+Última actualización:          06/24/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   8                             Asc   Machine                      No
+           2    FECHA                                  Fecha                                                      8                             Asc   Machine                      No
+           3    COD_MED                                Carácter                                                   7                             Asc   Machine                      No
+           4    PREC_MED                               Numérico                                                   8                4                                               No
+           5    CANT_MED                               Numérico                                                   6                2                                               No
+           6    MEDICO                                 Numérico                                                   6                                                                No
+           7    DIGITADOR                              Carácter                                                   6                                                                No
+           8    TIPO                                   Carácter                                                  10                                                                No
+           9    SUBTIPO                                Carácter                                                   1                                                                No
+** Total **                                                                                                      61
+
+Estructura de la tabla:                    C:\SIGEF\SISTMEDI\DATOS\NUMEROS.DBF
+Nº registros de datos:        108     
+Última actualización:          03/17/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   3                             Asc   Machine                      No
+           2    NOMBRE                                 Carácter                                                  15                                                                No
+           3    NOMADIC                                Carácter                                                  15                                                                No
+** Total **                                                                                                      34
+
+Estructura de la tabla:                    C:\SIGEF\SISTMEDI\DATOS\PROVEEDO.DBF
+Nº registros de datos:        286     
+Última actualización:          06/03/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   4                             Asc   Machine                      No
+           2    NOMBRE                                 Carácter                                                  50                             Asc   Machine                      No
+           3    R_U_C                                  Carácter                                                  11                             Asc   Machine                      No
+           4    DIRECCION                              Carácter                                                  50                                                                No
+           5    TELEFONO1                              Carácter                                                  10                                                                No
+           6    TELEFONO2                              Carácter                                                  10                                                                No
+           7    FAX                                    Carácter                                                  10                                                                No
+           8    TIPO                                   Carácter                                                   1                                                                No
+           9    OBSERVACIO                             Memo                                                       4                                                                No
+** Total **                                                                                                     151
+
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\REPIND02.DBF
+Nº registros de datos:        6       
+Última actualización:          06/06/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    EDAD01                                 Numérico                                                   2                                                                No
+           2    EDAD02                                 Numérico                                                   2                                                                No
+           3    CANTIDAD_M                             Numérico                                                   6                                                                No
+           4    CANTIDAD_F                             Numérico                                                   6                                                                No
+           5    PERMANE_M                              Numérico                                                   6                                                                No
+           6    PERMANE_F                              Numérico                                                   6                                                                No
+           7    MTOATEN_M                              Numérico                                                   8                2                                               No
+           8    MTOATEN_F                              Numérico                                                   8                2                                               No
+           9    MTOMEDI_M                              Numérico                                                   8                2                                               No
+          10    MTOMEDI_F                              Numérico                                                   8                2                                               No
+          11    MTOHOSP_M                              Numérico                                                   8                2                                               No
+          12    MTOHOSP_F                              Numérico                                                   8                2                                               No
+** Total **                                                                                                      77
+
+Estructura de la tabla:                 C:\SIGEF\SISTMEDI\DATOS\SALIMEDI.DBF
+Nº registros de datos:        328     
+Última actualización:          06/24/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    NUMERO                                 Numérico                                                   6                             Asc   Machine                      No
+           2    CODIGO                                 Carácter                                                   7                             Asc   Machine                      No
+           3    DESTINO                                Carácter                                                   3                                                                No
+           4    S_CANTIDAD                             Numérico                                                  10                4                                               No
+           5    S_PRECIO                               Numérico                                                  11                5                                               No
+           6    S_TOTAL                                Numérico                                                  12                2                                               No
+           7    S_FVEN                                 Carácter                                                   7                                                                No
+           8    S_LOTE                                 Carácter                                                  10                                                                No
+           9    PREC_VENTA                             Numérico                                                  11                5                                               No
+          10    TOT_VENTA                              Numérico                                                  12                2                                               No
+          11    ACTUALIZAR                             Carácter                                                   1                                                                No
+          12    DIGITADOR                              Carácter                                                   6                                                                No
+          13    HORA                                   DateTime                                                   8                                                                No
+** Total **                                                                                                     105
+
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\TIPOMEDI.DBF
+Nº registros de datos:        9       
+Última actualización:          07/12/03
+     Tamaño memo (bloques):   64 
+  Página de códigos:          850     
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   1                             Asc   Machine                      No
+           2    DESCRIPCIO                             Carácter                                                  25                                                                No
+           3    TIPO                                   Carácter                                                   1                                                                No
+           4    OBSERVACIO                             Memo                                                      10                                                                No
+           5    SINCOSTO                               Carácter                                                   1                                                                No
+           6    CANTIDAD                               Numérico                                                   6                                                                No
+** Total **                                                                                                      45
+
+
+Estructura de la tabla:                   C:\SIGEF\SISTMEDI\DATOS\TPCPINGR.DBF
+Nº registros de datos:        5       
+Última actualización:          06/19/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   1                             Asc   Machine                      No
+           2    NOMBRE                                 Carácter                                                  40                                                                No
+           3    CTA4                                   Carácter                                                  12                                                                No
+           4    CUENTA                                 Carácter                                                  25                                                                No
+           5    TIPORI                                 Carácter                                                   1                                                                No
+           6    FINANCIERA                             Carácter                                                  30                                                                No
+           7    AUTOCORR                               Carácter                                                   1                                                                No
+           8    NUMECORR                               Numérico                                                   6                                                                No
+** Total **                                                                                                     117
+
+Estructura de la tabla:                  C:\SIGEF\SISTMEDI\DATOS\TPCPSALI.DBF
+Nº registros de datos:        7       
+Última actualización:          06/18/03
+  Página de códigos:          1252    
+       Campo    Nombre de campo                        Tipo                                                   Ancho              Dec         Índice   Ordenación                Nulos
+           1    CODIGO                                 Carácter                                                   1                             Asc   Machine                      No
+           2    NOMBRE                                 Carácter                                                  40                                                                No
+           3    CUENTA                                 Carácter                                                  25                                                                No
+           4    FINANCIERA                             Carácter                                                  30                                                                No
+           5    AUTOCORR                               Carácter                                                   1                                                                No
+           6    NUMECORR                               Numérico                                                   6                                                                No
+** Total **                                                                                                     104
+

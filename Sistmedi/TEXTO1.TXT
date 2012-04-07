@@ -1,0 +1,60 @@
+SE COMPARTIRA EL ARCHIVO MEDICINA.DBF DEL SISTEMA DE CAJA
+CUYA ESTRUCTURA SERA LA SIGUIENTE:
+
+CODIGOS DE MEDICINA
+0 Servicios
+1 Medicinas
+2 Material médico - insumos
+3 Productos populares
+4 Aseo personal
+5 Perfumería
+6 Cosméticos
+7 Regalos
+8 Productos consumo
+9 Otros
+
+
+
+LAS SALIDAS DE PRODUCTOS
+Desde el almacen mediante Pecosas
+Desde las boticas mediante Transferencias
+
+Las transferencias entre boticas se realizarán mediante el código "T" y la numeracción será:
+100001 - 110000 para la botica Farmaben
+110001 - 120000 para la botica Loreto 
+120001 - 130000 para la botica Tarapacá
+130001 - 140000 para la botica Jauja
+
+SE DEBE MODIFICAR LOS CORRELATIVOS DE LOS INGRESOS VIA:
+NOTA DE ENTRADA DE 100000 A 500000
+TRANSFERENCIAS DE 300000 A 100000
+
+
+
+Los códigos de institución(sirve para proveedor) son:
+0001 para el Almacén General
+0002 para la botica Farmaben
+0003 para la botica Loreto 
+0004 para la botica Tarapacá
+0005 para la botica Jauja
+se debe habilitar en el archio INSTITUC en cada establecimiento
+
+
+El archivo MAESMEDI.DBF se inicializa cada año con los datos que termina MEDICINA.DBF el año anterior.
+
+
+El campo Deuda_inicial en PACICONV.DBF almacena la deuda del paciente al iniciar/instalar el sistema.
+
+Si se inicializan los datos todos los años, se debe hacer los siguiente:
+
+El archivo MEDICINA.DBF pasa a ser MAESMEDI.DBF y debe ser igual al saldo de BALANCES.DBF
+El campo Deuda_pend de PACICONV.DBF pasa a ser Deuda_inic
+Se deben eliminar los datos de: COMPINGR.DBF, INGRMEDI.DBF, COMPSALI.DBF, INGRSALI.DBF
+FACTURA.DBF, MEDICTDO.DBF, MEDITICK.DBF, DETACONV.DBF.
+En el archivo FACTURA.DBF, se debe insertar un registro de cada serie de boletas con el número 90000001, e inicializar las boletas y facturas que correspondan.
+En el archivo MEDICTDO.DBF, se debe insertar un registro en blanco
+En el archivo MEDITICK.DBF, se debe insertar un registro en blanco
+
+
+Para las boletas de venta se debe utilizar tamaño de hoja definido por el usuario
+215.9 mm X 140.0 mm

@@ -1,0 +1,58 @@
+ACTUALIZACIONES DEL SOFTWARE
+24/06/2009
+Se adiciona la impresion de letra de cambio
+Se adiciona la impresion de notas de crédito
+Se implementa opcion de incrementar un porcentaje a los precios de venta,
+en el formulario de ventas
+Se adiciona le listado de clients por zona incluyendo su dirección
+
+Tabla COMPINGR.DBF
+Se adiciona el campo RUC_CLIEDV c(11) para almacenar el ruc del cliente que devuelve la mercaderia
+
+Tabla RECIBO.DBF
+Se adiciona el campo CODCOBRA C(6) para almacenar el código del usuario que realiza la cobranza
+
+
+05/01/2009
+Tabla MEDICINA.DBF
+Adicionar el campo CREDITO L(1)
+Ampliar el campo LOTE a 12C
+
+Tabla INGRMEDI
+Ampliar el campo LOTE a 12C
+
+Tabla COMPINGR.DBF
+Adicionar el campo SERIE_DOC C(3)
+Adicionar el campo NUMERO_DOC C(8)
+Adicionar el campo F_EMIS_DOC D(8)
+Adicionar el campo F_VENC_DOC D(8) 
+Adicionar el campo TOTAL_DOC N(12,2)
+
+Creación de la tabla PAGOPROV.DBF en la carpeta
+\SIGEF\SISTMEDI\DATOS
+
+
+
+
+
+ACTUALIZACIONES DEL SOFTWARE
+16/05/2008
+
+Tabla PACICONV.DBF
+Se amplia el campo NOMBRE a 60 C
+
+Tabla RECIBO.DBF
+Ampliar el campo NOMBRE a 60 C
+Adicionar el campo SERIEPAGO C(3)
+Adicionar el campo NUMEROPAGO N(8)
+
+Tabla CLIENTES.DBF
+Indexar por RAZON_SOCI
+
+
+Nuevas opciones en el meú CREDITOS
+- Estado de Cuenta Individual - Nuevo
+- Créditos Detallados - Nuevo
+
+En la tabla RECIBO
+Adicionar el campo NROPLANI C(6)

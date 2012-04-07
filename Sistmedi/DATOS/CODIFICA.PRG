@@ -1,0 +1,24 @@
+USE LABORATO
+GO TOP
+XX=1
+COD1=SUBS(DESCRIPCIO,1,1)
+COD=COD1+"001"
+SKIP
+DO WHILE !EOF()
+   IF SUBS(DESCRIPCIO,1,1)=COD1
+      XX=XX+1
+      IF XX<10
+         REPLA CODIGO WITH COD1+"00"+STR(XX,1)
+        ELSE
+         IF XX<100
+            REPLA CODIGO WITH COD1+"0"+STR(XX,2)
+           ELSE
+            REPLA CODIGO WITH COD1+STR(XX,3)
+         ENDIF
+      ENDIF
+      skip
+     ELSE
+      COD1=SUBS(DESCRIPCIO,1,1)
+      XX=0
+   ENDIF
+ENDDO

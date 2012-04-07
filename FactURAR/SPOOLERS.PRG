@@ -1,0 +1,94 @@
+SET ECHO OFF
+SET TALK OFF
+SET STAT OFF
+SET EXCLUSIVE OFF
+SET DATE FRENCH
+SET CONFIRM ON
+SET AUTOSAVE ON
+SET DELETE ON
+SET ESCA OFF
+SET SYSM OFF
+SET CENTU ON
+DEFI WIND INICIO FROM 0,0 TO 24,150;
+     CLOSE FLOAT GROW SHADOW NOZOOM NONE
+DEFI WIND EMPEZAR FROM 0,0 TO 24,80;
+     CLOSE FLOAT GROW SHADOW NOZOOM FILL 'Û' NONE COLO B
+DEFI WIND PREPARA FROM 11,20 TO 15,60;
+     CLOSE FLOAT GROW SHADOW COLOR SCHEME 12
+DEFI WIND HORA FROM 9,15 TO 15,65;
+     CLOSE FLOAT GROW SHADOW COLOR SCHEME 12
+DEFI WIND GRAF FROM 10,15 TO 12,66 TITLE 'ฎ REORDENANDO FICHEROS ฏ'
+     
+CLOS ALL
+DEAC WIND ALL
+CLEAR MACROS
+YY=1
+*DO IMPRAUTO
+*QUIT
+*ACTI WIND EMPEZAR
+@0,0 SAY "SISTEMA INTEGRAL DE GESTION DE FARMACIA" COLO GR+/B
+DO PANTA
+*@10,24 SAY "ษอออออออ   ษอป      ษออออออออ  ษอออออออป  ษอออออออป" COLO W+/B
+*@11,24 SAY "บ          ศอผ      บ          บ       บ  บ       บ" COLO W+/B         
+*@12,24 SAY "บ         ออหออ     บ          บ       บ  บ       บ" COLO W+/B
+*@13,24 SAY "ศออออออป    บ       บ  อออออป  ฬอออออออผ  ฬอออออออผ" COLO W+/B     
+*@14,24 SAY "       บ    บ       บ       บ  บ          บ        " COLO W+/B
+*@15,24 SAY "       บ    บ       บ       บ  บ          บ        " COLO W+/B
+*@16,24 SAY "อออออออผ    ศออออผ  ศอออออออผ  ศอออออออผ  ส        " COLO W+/B                     
+@19,31 SAY "SOCIEDAD DE BENEFICENCIA DE HUANCAYO" COLO G+/B
+@23,8 SAY "Copyright (c) 2003.Derechos reservados prohibida su reproducciขn"  COLO G+/B
+TITULO01='SOC.BENEFICENCIA HYO.'
+TITULO02='BOTICA "FARMABEN"'
+
+ON KEY LABEL F12 DO SALGAN
+SET ESCA ON
+STOR .T. TO SIGUE
+ON ESCA DO SALIFALS
+DO WHILE SIGUE
+   WAIT WIND '<< IMPRESION EN LINEA >>' NOWA
+   IF USED('I')
+      SELE CAJAAUTO
+     ELSE
+      SELE I
+      USE CAJAAUTO ALIAS CAJAAUTO
+   ENDIF
+   GO TOP
+   IF NUMERO>0
+      IF NUMER_BOL>0
+         ****SOLO SE IMPRIME EL DUPLICADO DE BOLETAS****
+         SERIEBOL=SERIE_BOL
+         REGBOL=NUMER_BOL
+         SERIEFAC=SERIE_FAC
+         REGRO=NUMERO
+         INICNOMB=INIC_CAJA
+         NUMRUC=NUM_RUC
+         RAZSOC=RAZ_SOC
+         DIRSOC=DIR_SOC
+         DO IMPRDUPL
+        ELSE
+         SERIEBOL=SERIE_BOL
+         SERIEFAC=SERIE_FAC
+         REGRO=NUMERO
+         INICNOMB=INIC_CAJA
+         NUMRUC=NUM_RUC
+         RAZSOC=RAZ_SOC
+         DIRSOC=DIR_SOC
+         DO IMPRAUTO
+      ENDIF
+     ELSE
+      IF NUMERO<0
+         REPLA NUMERO WITH 0
+         QUIT
+      ENDIF
+   ENDIF
+ENDDO   
+ON KEY LABEL F12
+ENDIF
+
+
+
+PROCEDURE SALGAN
+QUIT
+RETURN
+
+

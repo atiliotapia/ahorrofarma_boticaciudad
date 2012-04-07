@@ -1,0 +1,31 @@
+
+Los tipos que se manejan en el campo ESTADO del archivo Medictdo.DBF son:
+" " -> Normal
+"A" -> Anulados
+*"T" -> Ticket
+
+Los tickets se guardar n en el archivo MEDITICK.DBF con n£mero de Registro=0
+hasta que se emita la boleta.
+
+Los tickets grabaran en el campo NOMBRE de MEDICTDO.DBF la palabra "Ticket" y
+en el archivo MEDITICK guardar n el n£mero de registro.
+
+Al procesar el r‚cord de venta de cada vendedor, se debe procesar el archivo
+MEDICTDO.DBF y el archivo MEDITICK.DBF
+*al emitirse la boleta de los tickets el campo ESTADO cambia de "T" a " ".
+
+*Para anular un producto que se guard¢ como ticket, se debe anular todo el 
+*registro que tendr  un n£mero de pedido.
+*
+*Los tickets solo de registran desde facturaci¢n directa.
+
+N£mero de serie de 03 d¡gitos alfanum‚rico, debe existir un n£mero de serie
+para boletas y un n£mero de serie para facturas.
+
+Cada serie debe tener inicializado la factura "90000001", caso contrario  no
+se podra tener el n£mero correcto de boleta.
+
+La facturaci¢n directa s¢lo sirve para boletas de venta, las facturas se 
+hacen necesariamente con pedidos (para el caso de medicinas). Por lo tanto
+la botica s¢lo puede tener una serie de facturas para todo.
+

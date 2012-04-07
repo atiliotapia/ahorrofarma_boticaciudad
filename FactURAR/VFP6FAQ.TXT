@@ -1,0 +1,417 @@
+Preguntas más frecuentes sobre 
+Microsoft Visual FoxPro 6.0 para Windows
+
+Éstas son algunas de las preguntas más frecuentes acerca de Visual FoxPro. Examine esta lista antes de llamar al Soporte técnico de Microsoft.
+
+Para imprimir estas notas, elija Imprimir en el menú Archivo. Este documento se divide en las cuatro partes siguientes:
+---------------------------------------------------------------------
+Parte 1. Soporte y mercadotecnia
+Parte 2. Nuevas características de Visual FoxPro 6.0 
+Parte 3. Migración desde otras versiones de FoxPro
+Parte 4. Preguntas frecuentes sobre Visual FoxPro 
+---------------------------------------------------------------------
+
+Parte 1. Soporte y mercadotecnia
+
+Pregunta 1-1:  ¿Dónde puedo encontrar actualizaciones del producto?
+
+Respuesta: el mejor lugar para obtener información acerca de actualizaciones del producto, que incluyen Service Packs, ejemplos y asistentes actualizados, y más código, es el sitio Web de Visual FoxPro en la siguiente dirección URL:
+
+www.microsoft.com/spain/vfoxpro
+
+Visite el sitio Web regularmente para descargar las actualizaciones más recientes.
+
+Pregunta 1-2: ¿Dónde puedo obtener más información acerca de Visual FoxPro?
+
+Respuesta:  la mejor manera de recibir todos los anuncios de nuevos productos es a través del sitio Web de Microsoft Visual FoxPro. Además de obtener información sobre nuevos productos, en este sitio también se ofrecen actualizaciones de productos, artículos técnicos, documentos, ejemplos ingeniosos de programadores expertos, anuncios de conferencias y vínculos a muchos otros sitios Web de FoxPro.
+
+Pregunta 1-3: ¿Como puedo obtener soporte para mi producto e informar de errores?
+
+Respuesta:  el sitio Web de Microsoft Visual FoxPro tiene vínculos a varias opciones de soporte en línea, que incluye la Microsoft Knowledge Base de todos los productos. También puede tener acceso a una lista de Preguntas más frecuentes. Además de soporte en línea, puede llamar para obtener soporte directo para su producto. El menú Ayuda tiene una opción que muestra los números de teléfono de soporte técnico. Estos números también se pueden usar para informar de problemas que crea que pueden ser errores del producto.
+
+Pregunta 1-4.  ¿Qué es Knowledge Base y cómo puedo usarla?
+
+Respuesta: Knowledge Base es una extensa lista de artículos que tratan la utilización de las características de los productos, los errores conocidos y sus soluciones, además de otra información útil que le ayudará a usar los distintos productos de Microsoft. Knowledge Base está disponible en línea en la siguiente dirección URL:
+
+	support.microsoft.com
+
+Pregunta 1-5: ¿Va a salir una versión Visual FoxPro 6.0a?
+
+Respuesta:  Microsoft tiene el compromiso de producir productos de alta calidad. Si surge la necesidad podemos proporcionar correcciones para Visual FoxPro 6.0. Sin embargo, no estarán en una versión 6.0a. Las correcciones de errores de Visual FoxPro 6.0 se incluirán en Service Packs de Visual Studio. Se anunciarán en los sitios Web de Visual FoxPro, www.microsoft.com/spain/vfoxpro o de Visual Studio, www.microsoft.com/vstudio. 
+
+Pregunta 1-6:  Microsoft ofrece varias soluciones para programar aplicaciones. ¿Cómo sé que producto debo usar y recomendar a mis clientes?
+
+Respuesta:  hay varios factores que intervienen en la elección del producto apropiado para una tarea. El sitio Web de Microsoft Visual FoxPro contiene un excelente artículo de información sobre estrategia que describe las diferencias entre los productos de Microsoft como Visual FoxPro, Visual Basic, SQL Server y Access.
+
+Pregunta 1-7:  ¿Dónde puedo encontrar ejemplos de Visual FoxPro?
+
+Respuesta:  Visual FoxPro 6.0 ofrece una vasta colección de ejemplos que incluyen algunos nuevos sobre características específicas de la versión 6.0. A diferencia de versiones anteriores de Visual FoxPro, ahora los ejemplos se instalan en la ubicación de todos los ejemplos de Visual Studio. Debe elegir la instalación de los ejemplos en una instalación Personalizada. En Visual FoxPro, use la nueva función HOME(2) para buscar fácilmente la ubicación de los ejemplos que decida instalar.
+
+Además de los ejemplos que se incluyen con el producto, se actualiza frecuentemente el sitio Web de Microsoft con nuevos ejemplos.
+
+Pregunta 1-8: Muchas veces leeré un artículo en el sitio Web de Microsoft y veré código de ejemplo para Visual Basic y Visual C++. ¿Significa esto que no puedo usarlos en Visual FoxPro?
+
+Respuesta:  No. En particular, en lo que se refiere a llamar y usar objetos, la sintaxis de Visual Basic y Visual FoxPro es casi idéntica. Generalmente podrá usar código de Visual Basic y adaptarlo rápidamente a la sintaxis correcta para Visual FoxPro. La similitud de la sintaxis también significa, a menudo, el código de un libro o una revista de Visual Basic puede ser útil para programadores de Visual FoxPro. 
+
+Pregunta 1-9:  He utilizado Visual FoxPro durante años. ¿Por qué debo actualizar a Visual Studio?
+
+Respuesta:  Microsoft Visual Studio es la mejor solución para desarrollo de aplicaciones para los programadores profesionales. A medida que la programación de aplicaciones se concentra más en sistemas basados en componentes que integran la tecnología cliente-servidor e Internet, es necesario tener muchas herramientas que cumplan las demandas de los programadores actuales y las necesidades cambiantes de las compañías. Microsoft Visual Studio ofrece un conjunto completo de herramientas para el programador profesional. Visual Studio Edición profesional incluye Visual FoxPro, Visual Basic, Visual C++, Visual J++ y Visual InterDev. Visual Studio Edición empresarial incluye estas cinco herramientas y además Visual SourceSafe y SQL Server.
+
+Pregunta 1-10:  ¿Cómo puedo obtener información adicional relacionada con mercadotecnia así como una participación en las betas futuras de Visual FoxPro?
+
+Respuesta:  envíe mensajes a la siguiente dirección de correo electrónico:
+
+	foxmktg@microsoft.com
+
+No se garantiza que se le seleccionará como participante en una beta ya que el número de personas que lo solicita suele superar el número disponible de participantes. 
+---------------------------------------------------------------------
+Parte 2. Nuevas características de Visual FoxPro 6.0
+
+Pregunta 2-1:  ¿Cuáles son las novedades de Visual FoxPro 6.0?
+
+Respuesta: hay muchas características nuevas en la versión 6.0. Algunas de estas características nuevas son las mejoras de servidor de Automatización, los documentos activos, compatibilidad con arrastrar y colocar de OLE, los métodos Access y Assign, y la Galería de componentes. Para obtener más información acerca de las nuevas características y los nuevos elementos del lenguaje, haga clic en "Lo nuevo" en la página de inicio de Visual FoxPro del examinador de MSDN Library.
+
+Pregunta 2-2:  ¿Qué es un documento activo y cuándo debo usarlo? ¿En qué difieren de los documentos activos de Visual Basic?
+
+Respuesta: los documentos activos son una forma de distribuir sus aplicaciones de Visual FoxPro en una intranet. Puede usar los documentos activos para ejecutar formularios creados con Visual FoxPro, que contienen código de Visual FoxPro, directamente en el explorador de Web Microsoft Internet Explorer.
+
+En Visual Basic, los documentos activos no son más que formularios que se han modificado ligeramente de forma que admitan características especificas de Internet Explorer. Los documentos activos de Visual FoxPro son ligeramente diferentes. La clase ActiveDoc es una clase no visual que tiene un comportamiento más parecido a un objeto Application que controla los objetos necesarios para ejecutar formularios existentes de Visual FoxPro en el explorador. Por tanto, no es necesario convertir los formularios. Se han agregado varias propiedades nuevas, incluyendo las propiedades ScrollBars y TitleBar de formulario de forma que se ajusten a los estándares de interfaz de usuario cuando estén alojados en Internet Explorer.
+
+Es importante comprender que la clase ActiveDoc de Visual FoxPro que ejecuta en Internet Explorer no es más que un archivo de aplicación (.app) que se puede ejecutar directamente en Visual FoxPro. Por ello, es necesaria la versión de tiempo de ejecución de Visual FoxPro. Así, los documentos activos son más apropiados para entornos de intranet en los que las restricciones de descargar los archivos de tiempo de ejecución de Visual FoxPro no son tan severas como a través de Internet, donde la mayor parte de los usuarios tienen modems para tener acceso. La buena noticia es que los archivos de tiempo de ejecución sólo deben descargarse una vez.
+
+Pregunta 2-3:  ¿Cuál es la diferencia entre arrastrar y colocar de OLE y la capacidad de arrastrar y colocar que existía en Visual FoxPro 5.0?
+
+Respuesta: antes de esta versión, Visual FoxPro admitía arrastrar y colocar entre formularios y los controles de los formularios. Este tipo de arrastrar y colocar pertenecía a Visual FoxPro, lo cual significa que no podía arrastrar a o desde otra aplicación no Visual FoxPro.
+
+En esta versión, Visual FoxPro admite verdadero Arrastrar y colocar OLE, que es el mismo tipo de Arrastrar y colocar utilizado por otras aplicaciones para Windows. Ahora sus aplicaciones pueden usar este estándar para admitir arrastrar y colocar datos entre otras aplicaciones como Microsoft Excel y Word.
+
+Pregunta 2-4:  ¿Por qué hay dos asistentes para aplicaciones?
+
+Respuesta: en un esfuerzo por simplificar la programación de aplicaciones para los programadores de Visual FoxPro, se han agregado muchas características nuevas a la versión 6.0, como el nuevo Marco de trabajo de aplicaciones, el Generador de aplicaciones y la Galería de componentes. El Asistente para aplicaciones antiguo, que se ofrecía con la versión 5.0 se incluye por compatibilidad con versiones anteriores. El nuevo asistente, que simplemente pide un nombre de proyecto y una ubicación, simplifica todo el proceso de creación de una aplicación.
+
+Pregunta 2-5:  ¿Cuál es la diferencia entre un objeto Project y un objeto ProjectHook?
+
+Respuesta: siempre que se abre un archivo de proyecto (.pjx) se crea un objeto Project. Se puede hacer referencia a este proyecto con el fragmento de código siguiente:
+
+	_VFP.ActiveProject
+
+El objeto Project tiene propiedades para toda la información disponible en el cuadro de diálogo Información del proyecto, como Colecciones para archivos y servidores.
+
+Como los programadores desean interactuar con varios eventos asociados a un proyecto, como agregar archivos o compilar, fue necesario crear una nueva clase (ProjectHook) que fuera compatible con estos eventos.
+
+Las clases ProjectHook son opcionales para un proyecto. Si se especifica una clase ProjectHook para un proyecto (como se especifica en el cuadro de diálogo Información del proyecto), se crea una instancia de la misma cuando se abre el proyecto (esto incluye comandos como BUILD APP) y se destruye cuando se cierra el proyecto.
+
+Pregunta 2-6:  ¿Cómo puedo agregar casillas de verificación a mi control ListBox?
+
+Respuesta: una mejora frecuentemente solicitada fue agregar compatibilidad con casillas de verificación al control ListBox nativo de Visual FoxPro. La nueva versión del control Microsoft ActiveX ListView así como el control Treeview admiten ahora casillas de verificación. Estos controles se incluyen en Visual FoxPro 6.0 (vea la Pregunta 2-7).
+
+Pregunta 2-7:  mis formularios de Visual FoxPro 5.0 que contienen ciertos controles como ListView o TreeView no heredan las características más recientes de estos controles (como la compatibilidad con casillas de verificación). Las aplicaciones distribuidas con estos formularios no funcionan correctamente en los equipos de los usuarios debido a un error de OLE en el formulario.
+
+Respuesta:  en la versión 6.0, se ha cambiado el nombre del archivo que contiene los siguientes controles ActiveX de Comctl32.ocx a Mscomctl.ocx:
+
+	Microsoft ListView Control
+	Microsoft TreeView Control
+	Microsoft ImageList Control
+	Microsoft ProgressBar Control
+	Microsoft StatusBar Control
+	Microsoft Slider Control
+	Microsoft Tabstrip Control
+	Microsoft Toolbar Control
+
+Aunque Visual FoxPro 6.0 actualiza al nuevo archivo Mscomctl.ocx, los formularios de la versión 5.0 con estos controles seguirán haciendo referencia al archivo antiguo ya que el control ActiveX está enlazado por su propiedad OleClass. Los controles ActiveX del archivo Comctl32.ocx, más antiguo, tienen la versión 1. Por ejemplo, la propiedad OleClass de un control ListView en un formulario de la versión 5.0 sería:
+
+	COMCTL.ListViewCtrl.1
+
+Los controles ActiveX nuevos del archivo Mscomctl.ocx tienen la versión 2 (o posterior). Por ejemplo:
+
+	COMCTL.TreeViewCtrl.2
+
+Visual FoxPro no actualizará automáticamente sus controles, por lo que debe conocer qué versión de un control ActiveX utiliza un formulario al distribuir sus aplicaciones.
+
+Pregunta 2-8:  ¿Puedo crear mis propias colecciones definidas por el usuario en Visual FoxPro 6.0?
+
+Respuesta: Visual FoxPro 5.0 no admitía directamente la creación de colecciones, que son similares a matrices de objetos. La propiedad Controls del objeto Form es un ejemplo de colección. Visual FoxPro 6.0 admite los métodos Access y Assign, que se pueden usar para crear colecciones definidas por el usuario. Hay un excelente ejemplo de esto en la aplicación de ejemplo Solutions.
+
+Pregunta 2-9:  ¿Por qué no funcionan los servidores de Automatización de Visual FoxPro 5.0 con Microsoft Transaction Server o las páginas Active Server?
+
+Respuesta: se han realizado varias mejoras de servidor en la versión 6.0, que incluyen compatibilidad para subprocesos de modelo de apartamento que permite que los servidores se escalen mejor y se ejecuten mejor en páginas Active Server y en Transaction Server. Las mejoras de biblioteca de tipos permiten ahora que aplicaciones como Visual Basic vean propiedades y métodos en desplegables para completar comandos.
+
+También se puede producir un error de llamada a procedimiento remoto si usa los servidores de Automatización de Visual FoxPro 6.0 o 5.0 con Microsoft Transaction Server 2.0. Si esto ocurre, asegúrese de que tiene al menos el Service Pack 1 o posterior de Transaction Server 2.0.
+
+Pregunta 2-10:  Deseo programar una aplicación para Internet con Visual FoxPro 6.0. Hay muchas características nuevas para hacerlo. ¿Por donde puedo empezar?
+
+Respuesta: Visual FoxPro proporciona varias herramientas que puede usar para crear aplicaciones que distribuirán por el Web. 
+
+El nuevo Asistente para publicación en Web y las características GENHTML son herramientas excelentes para generar varios resultados HTML para publicar sus datos de Visual FoxPro. En función de sus necesidades, hay opciones para generar HTML estático y dinámico. Incluso puede usar el Asistente para publicación en Web para generar una secuencia de comandos que se puede ejecutar en tiempo de ejecución para volver a generar su código HTML.
+
+Visual FoxPro también admite la creación de componentes COM (antes conocidos como servidores de Automatización) que se pueden usar como objetos de capa intermedia en una aplicación para Web. Estos objetos se pueden distribuir para tener acceso a datos de Visual FoxPro y procesarlos, mediante ODBC o ADO así como controlar reglas de negocios. Puede tener acceso a los componentes COM de Visual FoxPro directamente desde páginas Active Server y desde Microsoft Transaction Server. También puede usar la extensión FOXISAPI que se incluye en Visual FoxPro. Microsoft Internet Information Server puede llamar a esta extensión para solicitar código HTML desde un componente COM de Visual FoxPro invocando un método que devuelve código HTML directamente.
+
+La nueva tecnología de documentos activos es otra opción que le permite aprovechar los formularios existentes de Visual FoxPro y ejecutarlos a través de la Intranet. Como es necesario el entorno de tiempo de ejecución de Visual FoxPro, no siempre es lo mejor distribuir a través de Internet.
+
+Pregunta 2-11:  ¿Por qué la nueva propiedad Scrollbars para formularios no muestra barras de desplazamiento en mi formulario cuando cambio esta propiedad en tiempo de ejecución?
+
+Respuesta: antes de crear un formulario, Visual FoxPro lee la propiedad Scrollbars del formulario porque el valor de esta propiedad determina cómo se crea un formulario. Si el valor de la propiedad Scrollbars es 0 (sin barras de desplazamiento), Visual FoxPro crea un formulario ligero de tipo Visual FoxPro 5.0. Si el valor de la propiedad Scrollbars es un valor diferente de 0, Visual FoxPro crea un formulario que consume más memoria. Al diseñar sus aplicaciones, tenga en cuenta que los formularios con barras de desplazamiento requieren más memoria.
+
+Si se establece la propiedad Scrollbars a 0 en tiempo de diseño, en tiempo de ejecución la propiedad Scrollbars es de sólo lectura porque Visual FoxPro crea inicialmente un formulario ligero. Sin embargo, si se establece la propiedad Scrollbars a un valor distinto a 0 en tiempo de diseño, Visual FoxPro permite que la propiedad Scrollbars sea de lectura-escritura en tiempo de ejecución porque puede haber código que llame a la función SAVEAS() para crear un nuevo formulario con barras de desplazamiento. Si no necesita barras de desplazamiento en un formulario (por ejemplo, el formulario usa marcos de páginas), establezca la propiedad Scrollbars a 0 en tiempo de ejecución para ahorrar memoria.
+Si se establece la propiedad Scrollbars a un valor distinto de 0 en tiempo de diseño, puede modificar el valor de la propiedad Scrollbars en tiempo de ejecución. Sin embargo, si cambia el valor de la propiedad Scrollbars a 0, Visual FoxPro ocultará las barras de desplazamiento en el formulario; no se creará un nuevo formulario ligero.
+---------------------------------------------------------------------
+Parte 3. Migración desde otras versiones de FoxPro y Visual FoxPro
+
+Pregunta 3-1:  ¿Qué debo tener en cuenta al mover mis aplicaciones de Visual FoxPro 5.0 a Visual FoxPro 6.0?
+
+Respuesta: las aplicaciones de Visual FoxPro 5.0 se ejecutarán tal cual directamente en Visual FoxPro 6.0. Si el código de su aplicación 5.0 contiene alguna referencia a barras de menús del sistema (como _msystem), debe volver a compilar el código. También puede crear aplicaciones en 6.0 y ejecutarlas en 5.0; sin embargo, si hace esto, su código no debe contener ningún elemento del lenguaje 6.0. Las bases de datos se pueden compartir entre las dos versiones.
+
+El formato de archivo de los archivos de menú (.mnx) se ha modificado ligeramente para acomodar la compatibilidad con la clase ActiveDoc. Si intenta abrir un menú 5.0 en la versión 6.0, se le pedirá que lo convierta al nuevo formato.
+
+El nuevo formato de menú será compatible con las versiones 5.0 de GENMENU y otras utilidades XBase que leen el archivo .mnx. Sin embargo, el diseñador de menús de Visual FoxPro 5.0 no podrá abrir los menús del formato 6.0. Para convertir un archivo .mnx de la versión 6.0 al formato 5.0, puede usar el siguiente comando:
+
+	ALTER TABLE mimenu.mnx ALTER COLUMN location N(1)
+
+Sin embargo, se puede perder o dañar la información NEGOTIATE para barras de menús al hacerlo.
+
+Los archivos de proyecto (.pjx) se mantienen igual; sin embargo, se almacena nueva información de ProjectHook en estos archivos. Por tanto, si usa proyectos de la versión 6.0 con enganches de proyecto (que son opcionales), debe evitar abrirlos en la versión 5.0.
+
+Lea la sección "Actualizar" de la Ayuda.
+
+Pregunta 3-2: ¿Por qué tengo que ejecutar SYS(2333,0) para permitir que varios controles ActiveX funcionen de forma apropiada en Visual FoxPro 5.0?
+
+Respuesta: en Visual FoxPro 6.0, la variable predeterminada es SYS(2333,0), por lo que esto ya no es necesario. También se recomienda que establezca _vfp.AutoYield a .F. also.
+
+Pregunta 3-3:  ¿Qué debo tener en cuenta al mover mis proyectos de aplicaciones de Visual FoxPro 3.0 a Visual FoxPro 6.0?
+
+Respuesta: tendrá que volver a compilar las aplicaciones programadas en Visual FoxPro 3.0 para que se ejecuten en Visual FoxPro 6.0, ya que el código objeto no es compatible entre versiones.
+
+Se ha cambiado el formato de archivo de base de datos (.dbc) entre la versión 3.0 y la 5.0, por lo que no es práctico compartir bases de datos entre aplicaciones programadas en 3.0 y aplicaciones programadas en 6.0 a menos que los usuarios de 3.0 tengan acceso a los datos a través del controlador ODBC de Visual FoxPro (con vistas remotas).
+
+El formato para archivos de formulario (.scx) y archivos de clases (.vcx) se ha modificado ligeramente entre las versiones 3.0 y 5.0 (vea la Pregunta 3-5). Como en la versión 5.0, al abrir un formulario o una clase de la versión 3.0 en la versión 6.0, se invoca al convertidor.
+
+Los archivos de proyecto se actualizaron en la versión 5.0 para que fueran compatibles con la integración con control de código fuente. Por tanto, los proyectos de la versión 3.0 se convierten automáticamente para que admitan control de código fuente cuando se abren en la versión 6.0.
+
+Vea la Pregunta 3-1 para obtener más detalles sobre los cambios en archivos de menú y de proyecto realizados entre las versiones 5.0 y 6.0. Además, lea la sección "Actualizar" en la Ayuda.
+
+Pregunta 3-4:  ¿Cuál es la estrategia multiplataforma de Visual FoxPro?
+
+Respuesta: lea la Pregunta 3-2; la versión actual de Visual FoxPro para Macintosh es la 3.0. Hay varias soluciones multiplataforma alternativas para programadores de Visual FoxPro para Windows que se deben evaluar seriamente. Considere la posibilidad de usar Microsoft Internet Explorer para Macintosh como interfaz para usuarios de Mac. Puede usar los servidores de Automatización de Visual FoxPro 6.0 para tener acceso a datos de Fox y mostrarlos como código HTML. La utilidad FoxISAPI (compatible con el nuevo administrador de grupos incluido en la versión 6.0) es una de esas soluciones.
+
+Pregunta 3-5:  Si modifico o ejecuto mis formularios de Visual FoxPro 3.0 en Visual FoxPro 6.0, las fuentes son más pequeñas y ya no están en negrita. ¿Cuál es la causa de esto y cómo puedo evitarlo?
+
+Respuesta:  para permitirle crear más fácilmente formularios que se ajusten al estándar Windows 95, se han cambiado varios valores de propiedad predeterminados para controles, incluyendo FontSize, FontBold y ColorSource. Si se establecieron al valor predeterminado en Visual FoxPro 3.0, seguirán siendo valores predeterminados en Visual FoxPro 6.0. Sin embargo, como los valores predeterminados son diferentes, el texto se mostrará de forma diferente.
+
+Si desea que sus formularios tengan la misma apariencia que en Visual FoxPro 3.0, conviértalos como parte de un proyecto. A continuación, cuando abra el proyecto de Visual FoxPro 3.0 en Visual FoxPro 6.0, active la casilla de verificación Conservar los valores predeterminados de propiedades de Visual FoxPro 3.0 en el convertidor.
+
+Pregunta 3-6:  ¿Qué debo tener en cuenta al mover mis aplicaciones de FoxPro 2.x a Visual FoxPro 6.0?
+
+Respuesta: Visual FoxPro 3.0 fue una actualización importante para los programadores de FoxPro. De hecho, con el cambio de paradigma (vea la Pregunta 3-7), algunas personas consideran que Visual FoxPro es un producto completamente nuevo. Con el cambio a la tecnología orientada a objetos, se han cambiado la mayor parte de los formatos de archivo.
+
+Visual FoxPro incluye una utilidad Convertidor que controla todos los cambios de formato de archivo. Sin embargo, no convierte el código procedural a código orientado a objetos excepto para elementos visuales de interfaz de usuario. Debe saber que su código existente de FoxPro 2.x seguirá ejecutándose tal cual. Recomendamos que migre su código fuente a código orientado a objetos donde sea posible, para beneficiarse de muchas características nuevas así como de prácticas de programación más eficaces.
+
+Una de las nuevas características de Visual FoxPro más populares es la compatibilidad con bases de datos reales (como una colección de tablas). El término "base de datos" se solía usar indistintamente con "tabla" en FoxPro 2.x y en versiones anteriores.
+
+Lea la sección "Actualizar" de la Ayuda.
+
+Pregunta 3-7: ¿Cuándo debo usar la programación orientada a objetos en lugar de la programación procedural? ¿Es mejor crear clases visualmente o mediante programación de código?
+
+Respuesta:  puede seguir programando en el estilo procedural tradicional en Visual FoxPro si lo prefiere. La mayor parte de los programas de FoxPro versión 2.x programados en estilo procedural se ejecutarán con mínimas modificaciones en Visual FoxPro. 
+
+Sin embargo, considere la posibilidad de hacer la transición al estilo de programación orientada a objetos si se cumplen las siguientes condiciones:
+
+	1.  Su organización participa actualmente en un proceso estructurado
+	    y analítico para nuevos proyectos de programación.
+
+	2.  Desea invertir los recursos necesarios para programar una biblioteca 
+	    de código reutilizable sin obtener los resultados de esta inversión
+	    hasta después de finalizar el proyecto actual.
+
+	3.  Desea aprovechar la eficacia del control de eventos, la sintaxis de código
+          común y otras ventajas asociadas a la programación orientada a objetos de 
+          Visual FoxPro.
+
+Cuando cree una clase mediante programación, debe conocer todos los comandos necesarios para completar una tarea, pero puede inspeccionar cualquier parte del código en cualquier momento. Si crea visualmente una clase, no tiene que conocer todos los comandos para completar una tarea, pero debe analizar cada método individualmente. Una de las ventajas de Visual FoxPro es la capacidad de agregar una clase definida mediante código a un formulario, guardar los objetos instanciados como una clase y, a continuación, modificar visualmente las clases. Esta funcionalidad, combinada con la capacidad de exportar código mediante el Examinador de clases, proporciona lo mejor de los dos tipos de herramientas de diseño de clases.
+
+Pregunta 3-8: ha crecido el número de datos de mi cliente. ¿Cómo puedo mover mis datos de Visual FoxPro a Microsoft SQL Server?
+
+Respuesta: Visual FoxPro incluye un Asistente para Upsizing que mueve bases de datos de FoxPro a SQL Server u Oracle. El Asistente tiene opciones para crear automáticamente en su base de datos vistas remotas que tengan acceso a los nuevos datos de SQL Server. Esta estrategia le permite conservar formularios e informes existentes que tienen acceso a orígenes de datos con mínimas modificaciones.
+
+Pregunta 3-9: ¿Por qué hay un nuevo archivo Mscomctl.ocx? ¿Sigue siendo necesario un nuevo archivo Comctl32.ocx? ¿Cuáles son los posibles problemas?
+
+Respuesta: El archivo Comctl32.ocx de Visual FoxPro 5.0 contiene los siguientes controles ActiveX:
+
+	Treeview
+	Listview
+	Slider
+	Imagelist
+	Status Bar
+	Tabstrip
+	Progress Bar
+	Toolbar
+
+Con Visual FoxPro 6.0, se incluyen versiones actualizadas de estos controles en el nuevo archivo Mscomctl.ocx. Esto se hizo principalmente porque se han agregado varias características nuevas a los controles, como compatibilidad con casillas de verificación y botones Activar.
+
+Los programadores de Visual FoxPro deben tener en cuenta los siguientes problemas importantes:
+
+- Visual FoxPro no actualiza automáticamente los controles ActiveX de formularios para utilizarlos con la nueva versión. Así, los formularios existentes que usen controles como Treeview seguirán haciendo referencia al antiguo archivo Comctl32.ocx.
+
+- Cuando se agrega un control a un formulario no puede actualizarlo ni cambiar su versión. Esto se hace a propósito de forma que versiones más recientes de controles ActiveX no produzcan errores en el código si, por alguna razón, la nueva versión no es compatible con las versiones anteriores. 
+
+- Puede determinar qué versión tiene de un control si ve la propiedad OleClass del control en la ventana Propiedades.
+
+	Por ejemplo:
+	COMCTL.ListViewCtl.1		(versión de Comctl32.ocx más reciente)
+	COMCTL.ListViewCtl.2		(versión de Mscomctl.ocx más reciente)
+
+- Es importante que sepa qué versión de un control usan sus formularios para propósitos de distribución. Si todos sus formularios usan el control Listview antiguo, no querrá distribuir el nuevo archivo Mscomctl.ocx. El Asistente para instalación le permite seleccionar el archivo específico que desea incluir en sus aplicaciones distribuidas.
+
+- Otro problema importante para los programadores que tienen los controles Comctl32.ocx y Mscomctl.ocx instalados y registrados en un único equipo, es asegurarse de que Mscomctl.ocx siempre se registra en último lugar. Cuando agrega un control ActiveX a un formulario, el cuadro de diálogo Insertar objeto muestra una lista de controles. Es posible que el cuadro de diálogo no muestre las versiones más recientes de estos controles.
+
+La versión actual no siempre es la versión más reciente, sino la última registrada. Así, si registra Comctl32.ocx después de instalar Visual FoxPro, puede restablecer fácilmente el archivo Mscomctl.ocx como archivo actual si ejecuta Regsvr32.exe desde el menú Inicio de Windows -> cuadro de diálogo Ejecutar. Por ejemplo, ejecute:
+
+	REGSVR32 c:\Windows\System\Mscomctl.ocx
+
+Esto asegura que siempre se instalará la versión más reciente de estos controles ActiveX.
+---------------------------------------------------------------------
+Parte 4. Preguntas frecuentes acerca de Visual FoxPro 
+
+Pregunta 4-1:  ¿Cómo puedo ocultar el escritorio de Visual FoxPro cuando se inicia el archivo .exe de mi aplicación?
+
+Respuesta:  coloque la siguiente línea de código en el archivo de configuración Config.fpw:
+
+	SCREEN=OFF
+
+Nota: si no tiene que proporcionar el archivo Config.fpw como un archivo independiente (es decir, no tendrá que modificarlo después de generar el archivo .exe), puede agregar el archivo Config.fpw al proyecto, asegurándose de que está marcado como incluido y se generará como parte del archivo .exe. Visual FoxPro no ocultará el escritorio a menos que haya un formulario de nivel superior activo. También puede ocultar el escritorio mediante programación con el comando siguiente (suponiendo que ya hay un formulario de nivel superior activo):
+
+	_VFP.Visible = .F.
+
+Pregunta 4-2:  ¿Cómo puedo crear un formulario de nivel superior con un menú de nivel superior?
+
+Respuesta:  para crear un formulario de nivel superior, establezca la propiedad ShowWindow del formulario a 2-Como formulario de nivel superior. Para crear un menú de nivel superior, abra el Diseñador de menús. En el menú Ver, elija Opciones generales y, a continuación, seleccione la casilla de verificación Formulario de nivel superior. Para colocar el menú de nivel superior en el formulario de nivel superior debe colocar código en el evento Init (u otro evento) del formulario. Por ejemplo:
+
+	DO <nombre menú.mpr> with THIS,.T.
+
+Para ver varias opciones para llamar al menú de nivel superior, lea el encabezado del archivo .mpr generado.
+
+Pregunta 4-3:  Algunos de los formularios de los archivos de ejemplo Solutions no muestran correctamente etiquetas de título o de control. ¿Cuál es la razón?
+
+Respuesta:  los formularios del ejemplo Solutions están diseñados para mostrarse correctamente con la configuración predeterminada de fuente de Windows (fuentes pequeñas). Si usa fuentes grandes, no se mostrarán correctamente algunos de los formularios. Para usar fuentes pequeñas, haga doble clic en el icono Pantalla del Panel de control y, a continuación, en el cuadro de diálogo Pantalla, elija la ficha Configuración. En la lista desplegable Tamaño de fuente, elija Fuentes pequeñas.
+
+Pregunta 4-4:  ¿Tengo que usar la opción Unirse a proyecto de control de código fuente en el menú Proyecto cada vez que abro un proyecto de Visual FoxPro que está bajo control de código fuente?
+
+Respuesta:  no, esto sólo se hace una vez. Cuando selecciona Unirse a proyecto de control de código fuente, Visual FoxPro crea una copia de los archivos de proyecto existentes (.pjx) en su disco duro local en el directorio de trabajo del proyecto. Visual FoxPro también crea una lista de archivos de proyecto (.pjm "metarchivo de proyecto") que usa para administrar los cambios realizados por los distintos programadores en la lista de archivos de proyecto). Después de haberse unido a un proyecto, puede abrir el proyecto como siempre y Visual FoxPro reconocerá que está bajo control de código fuente.
+
+Pregunta 4-5:  Cuando agrego un archivo a un proyecto de Visual FoxPro que está bajo control de código fuente, obtengo el siguiente mensaje de error:
+
+     "No se pudo asignar el archivo <nombre archivo> al proyecto de SourceSafe $/<nombre proyecto>"
+
+A este mensaje le sigue el siguiente mensaje en la ventana Resultados de control de código fuente:
+
+     "Se ha producido un error de API SCC 'Operación no realizada' en el archivo <nombre archivo>".
+
+El archivo agregado no está visible para otros usuarios que comparten el proyecto, incluso después de que elija Actualizar lista de proyecto. ¿Qué estoy haciendo mal?
+
+Respuesta:  Cuando agrega archivos a un proyecto de Visual FoxPro que está bajo control de código fuente, guárdelos en el directorio de trabajo en el que se creó la copia del proyecto actual.
+
+Pregunta 4-6:  Acabo de agregar un archivo a un proyecto de Visual FoxPro que está bajo control de código fuente y también he agregado el archivo al control de código fuente, pero no está visible para otros usuarios que comparten el proyecto. ¿Qué es lo que pasa?
+
+Respuesta:  después de crear un nuevo archivo o agregar un archivo a un proyecto, debe actualizar el archivo de lista de proyecto (.pjm) de forma que el archivo nuevo o agregado pase a ser visible para otros usuarios. En el submenú Control de código fuente del menú Proyecto, elija Actualizar lista de proyecto. Visual FoxPro combinará la lista de proyecto local con la almacenada en el servidor. Los otros usuarios deben hacer lo mismo. Cuando lo hagan, Visual FoxPro combinará sus cambios con sus archivos de listas de proyecto locales (.pjm) y vuelve a generar sus archivos de proyecto locales (.pjx).
+
+Pregunta 4-7:  ¿Qué es una vista fuera de línea y que puedo usar para la misma?
+
+Respuesta:  una vista fuera de línea le permite obtener una instantánea de una tabla y manipularla sin tener que estar conectado a la tabla host. Cuando haya terminado con la tabla, puede volver a conectarse con el host y sincronizar la vista con la tabla host. Al usar vistas fuera de línea, puede:
+
+         * Duplicar un subconjunto de datos de una tabla de Visual FoxPro o de un origen de datos remoto.
+         * Manipular el subconjunto duplicado de forma interactiva o mediante una aplicación.
+         * Compartir una tabla de búfer de cambios mientras está fuera de línea.
+         * Volver a conectarse al origen de datos apropiado.
+         * Actualizar por lotes las tablas locales o remotas.
+
+Estas características pueden ser muy útiles si tiene que trabajar con una pequeña parte de los datos sin estar conectado físicamente a su origen (por ejemplo, cuando está de viaje o trabaja fuera de la oficina y tiene que utilizar los datos más actuales de una tabla).
+
+Pregunta 4-8:  ¿Cuál es la diferencia entre la propiedad DataSource y la propiedad ControlSource? ¿Cuál es la diferencia entre la propiedad RowSource y la propiedad RecordSource?
+
+Respuesta:  la propiedad DataSource afecta a las vistas ODBC almacenadas en una base de datos (.dbc). Contiene una referencia al nombre del archivo de datos al que se está conectando ODBC y debe señalar a un origen de datos válido, definido a través del Administrador de ODBC. Puede manipular la propiedad DataSource con la función SQLSETPROP() y ver sus valores con la función SQLGETPROP().
+
+La propiedad ControlSource se usa para determinar el origen de datos al que está enlazado un objeto; la tabla o vista a la que está enlazado el objeto puede ser de cualquier tipo, incluyendo tablas locales de Visual FoxPro. En los objetos, la propiedad ControlSource puede incluir los controles CheckBox, Column, ComboBox, CommandGroup, EditBox, ListBox, OLE Bound Control, OptionButton, OptionGroup, Spinner y TextBox.
+
+Varios controles (ListBox y ComboBox) le permiten mostrar más de un campo y una fila cada vez. Además de la propiedad ControlSource, estos controles también tienen una propiedad RowSource para ello. Los datos se siguen enlazando a un único campo, que es por lo que estos controles tienen una propiedad ControlSource. El control Grid es único en el sentido de que tiene una propiedad RecordSource, pero no una propiedad ControlSource. En los controles Grid, los datos se enlazan a un conjunto completo de registros.
+
+Pregunta 4-9:  ¿Por qué mi cuadro combinado sólo muestra una fila de datos?  He creado una matriz para el cuadro combinado y ejecutado un comando SELECT - SQL en el evento Init de mi formulario para llenar la matriz.
+
+Respuesta:  ha creado una matriz en el evento Init del formulario sin filas o con una única fila. Cuando se crea el formulario, se produce el evento Init del cuadro combinado antes del evento Init del formulario y, por tanto, el cuadro combinado sólo contiene una fila de información. Para corregir esto, agregue la siguiente línea de código inmediatamente después de la instrucción SELECT - SQL que crea la matriz en el evento Init del formulario:
+
+	THISFORM.ComboBox1.RowSource = THISFORM.ComboBox1.RowSource
+
+Pregunta 4-10:   ¿Cómo oculto columnas específicas en un cuadro combinado y muestro otras?
+
+Respuesta:  la forma más fácil de ocultar columnas específicas en un cuadro combinado es utilizar el Generador de cuadros combinados. Arrastre las columnas al ancho deseado en la ficha Diseño del Generador de cuadros combinados.
+Para ocultar columnas específicas en un cuadro combinado mediante programación, establezca la propiedad ColumnWidth a 0 para las columnas. En el siguiente código de programa, se ocultan las columnas 1 y 2 y la columna 3 tienen un ancho de 100 píxeles:
+
+	THISFORM.ComboBox1.ColumnWidths = 0,0,100
+
+Pregunta 4-11:  He creado un archivo y he usado el Asistente para instalación para crear discos de distribución con Visual FoxPro 6.0 en Windows 95. Ahora la aplicación no se ejecuta en ningún equipo con Windows para Trabajo en grupo.  ¿A qué se debe esto?
+
+Respuesta:  Visual FoxPro 6.0 es una aplicación de 32 bits y sólo creará archivos .exe de 32 bits.  Windows para Trabajo en grupo es un sistema operativo de 16 bits y sólo puede ejecutar aplicaciones de 16 bits.  Debe tener Windows 95, Windows NT 4.0 o posterior para ejecutar sus aplicaciones de Visual FoxPro.
+
+Pregunta 4-12:  ¿Puedo personalizar los colores utilizados para marcar la sintaxis en una ventana de edición?
+
+Respuesta:  puede personalizar fácilmente la apariencia del código si elige Opciones en el menú Herramientas y selecciona la ficha Colorear la sintaxis del cuadro de diálogo Opciones.  Encontrará varias formas de personalizar los colores del código.
+
+Si desea desactivar completamente la capacidad de colorear la sintaxis, elija Propiedades en el menú Edición para mostrar el cuadro de diálogo Modificar propiedades. Después desactive la casilla de verificación Colorear la sintaxis.
+
+Pregunta 4-13:  ¿Puedo personalizar las marcas de comentario utilizadas para comentar la sintaxis en una ventana de edición?
+
+Respuesta: Visual FoxPro no admite directamente la posibilidad de cambiar esta opción a través de la interfaz de usuario; sin embargo, puede cambiar manualmente esta configuración si agrega un nuevo valor al Registro de Windows. En primer lugar, abra el Registro con RegEdit (escriba RegEdit en el cuadro de diálogo que se muestra cuando elige el menú Inicio -> Ejecutar...). A continuación, busque la siguiente clave de Registro.
+
+	HKEY_CURRENT_USER\Software\Microsoft\VisualFoxPro\6.0\Options
+
+Debe ver algunos valores familiares en el panel de la derecha. Son los valores guardados en el cuadro de diálogo Opciones de Visual FoxPro. Para agregar la nueva marca de comentario, seleccione Nuevo -> Valor de la cadena en el menú Edición y escriba el valor siguiente:
+
+	EditorCommentString
+
+Por fin, haga doble clic en esta nueva entrada del Registro y agregue una nueva marca de comentario que desee usar (de forma predeterminada, Visual FoxPro usa *!*). Asegúrese de que su entrada empieza por *, ya que esto denota un comentario en el código de FoxPro cuando se compila.
+
+Pregunta 4-14:  ¿Puedo personalizar el número predeterminado de elementos de la lista desplegable de un cuadro combinado como el utilizado en la ventana Código o en la ventana Propiedades?
+Respuesta: Visual FoxPro no admite directamente cambiar esta opción a través de la interfaz de usuario; sin embargo, puede cambiar manualmente esta configuración si agrega un nuevo valor al Registro de Windows. En primer lugar, abra el Registro con RegEdit (escriba RegEdit en el cuadro de diálogo que se muestra cuando se elige el menú Inicio -> Ejecutar...). A continuación, busque la siguiente clave del Registro.
+
+	HKEY_CURRENT_USER\Software\Microsoft\VisualFoxPro\6.0\Options
+
+Verá varios valores familiares en el panel de la derecha. Son los valores guardados en el cuadro de diálogo Opciones de Visual FoxPro. Para agregar el nuevo valor de DisplayCount, seleccione Nuevo -> Valor de la cadena en el menú Edición y escriba los valores siguientes:
+
+	DisplayCount
+
+Por fin, haga doble clic en esta nueva entrada del Registro y agregue el nuevo número de líneas que desea mostrar (de forma predeterminada, Visual FoxPro 5.0 usa 7 y Visual FoxPro 6.0 usa 15 ).
+
+El valor predeterminado de la propiedad DisplayCount de los cuadros combinados sigue siendo 7, por compatibilidad con versiones anteriores.
+
+Pregunta 4-15: Tengo problemas al usar los controles ActiveX Treeview y Listview. Por ejemplo, no se encuentran las imágenes del control ImageList asociado. ¿Por qué ocurre esto?
+
+Respuesta: el problema puede deberse a la versión de Comctl32.ocx que tiene instalada. Si tiene una versión registrada de Comctl32.ocx o Mscomctl.ocx (nuevo para Visual FoxPro 6.0) en el directorio Windows\System con fecha posterior a 21-8-96, no puede asociar un control ImageList con el control Treeview o Listview mediante la Página de propiedades. La solución es colocar manualmente código como el siguiente en el evento Init del control:
+
+	ex. Treeview Init
+	this.object.ImageList=thisform.imagelist1.object 	&& imagelist1=imagelist object
+
+	ex. Listview Init
+	this.object.Icons=thisform.imagelist2.object 		&& imagelist2=imagelist object
+	this.object.SmallIcons=thisform.imagelist3.object	&& imagelist3=imagelist object
+
+Lo siguiente también se aplica al uso de un archivo Comctl32.ocx registrado con fecha posterior a 21-8-96:
+
+Si tiene un formulario (.scx) o una clase de contenedor (.vcx) con un control TreeView o ListView que utiliza un control ImageList y el formulario o la clase se guardó con un archivo Comctl32.ocx con fecha posterior a 21-8-96 (la versión que se incluye en Visual FoxPro 5.0), el formulario o la clase se ejecutará con alguna versión anterior o con la versión más reciente de Comctl32.ocx, por lo que se conserva la compatibilidad posterior.
+
+Si crea o guardar un formulario o una clase que usa un control de Comctl32.ocx y el archivo Comctl32.ocx tiene una fecha posterior a 21-8-96, se tendrá que modificar o ejecutar la misma versión de Comctl32.ocx o posterior y ejecutar el formulario o la clase. Las nuevas versiones de Comctl32.ocx sólo son compatibles con las futuras versiones, no con las versiones anteriores.
+
+Pregunta 4-16: Tengo un control ActiveX Treeview o Listview que tarda en cargar elementos. ¿Hay alguna forma de mejorar el rendimiento?
+
+Respuesta: al llenar el control TreeView o ListView agregue el código siguiente:
+
+	treeview.Visible=.F.
+	treeview.Top=treeview.Top+9999
+	<agregue código aquí para llenar el control treeview>
+	treeview.Top=treeview.Top-9999
+	treeview.Visible=.T.
+
+Generalmente esto dobla el rendimiento de carga, principalmente porque el control no intenta actualizar su propia interfaz de usuario para cada adición de un nodo.
+
+Pregunta 4-17: Tengo problemas al ejecutar el segundo ejemplo FoxISAPI (FOXIS.EMPLOYEE) desde mi explorador de Web aunque puedo crear una instancia del servidor en Visual FoxPro. ¿Por qué?
+
+Respuesta: suele haber problemas como éste en los que el servidor se ejecuta correctamente en Visual FoxPro pero no en el explorador; tiene un problema de configuración. Probablemente no ha proporcionado los permisos de acceso apropiados al servidor de Web; esto lo puede resolver si ejecuta el archivo Dcomcnfg.exe y cambia la configuración. Para obtener más información, busque "FoxISAPI: un ejemplo de servidor OLE" en la Ayuda.
+
+

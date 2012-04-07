@@ -1,0 +1,2495 @@
+
+
+Fatal error: Exception code=C0000005 @ 10/01/2007 04:31:59 PM. Error log file: C:\SIGEF\SISTMEDI\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 18  {c:\sigef\sistmedi\pnttmaes.sct c:\sigef\sistmedi\pnttmaes.sct}
+	Called from -  inicio line 94  {c:\sigef\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/01/2007 11:19:34 PM. Error log file: C:\SIGEF\SISTMEDI\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 18  {c:\sigef\sistmedi\pnttmaes.sct c:\sigef\sistmedi\pnttmaes.sct}
+	Called from -  inicio line 94  {c:\sigef\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/01/2007 11:38:55 PM. Error log file: C:\SIGEF\SISTMEDI\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 18  {c:\sigef\sistmedi\pnttmaes.sct c:\sigef\sistmedi\pnttmaes.sct}
+	Called from -  inicio line 94  {c:\sigef\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/01/2007 11:41:45 PM. Error log file: C:\SIGEF\SISTMEDI\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 18  {c:\sigef\sistmedi\pnttmaes.sct c:\sigef\sistmedi\pnttmaes.sct}
+	Called from -  inicio line 94  {c:\sigef\sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 16/01/2007 12:46:22 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _1zn0185zf line 669  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 95  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 21/01/2007 04:00:45 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _1zn0185zf line 669  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 95  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 31/01/2007 03:01:54 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingr.sct c:\sigef\sistmedi\pnttingr.sct}
+	Called from -  _1zn0185zf line 669  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 95  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 12/02/2008 09:23:18 PM. Error log file: \\Pc01\c\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _1zn0185zp line 691  {\\Pc01\c\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 99  {\\Pc01\c\SIGEF\Sistmedi\inicio.prg \\pc01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 24/02/2008 06:24:32 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _1zn0185y1 line 611  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 99  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 26/03/2008 09:09:04 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 35  {c:\sigef\sistmedi\pnttingr.sct c:\sigef\sistmedi\pnttingr.sct}
+	Called from -  _1zn0185zf line 669  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 99  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/06/2008 07:39:00 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 20  {c:\sigef\sistmedi\pnttnuevo.sct c:\sigef\sistmedi\pnttnuevo.sct}
+	Called from -  formset1.form1.text4.valid line 35  {c:\sigef\sistmedi\pnttingr.sct c:\sigef\sistmedi\pnttingr.sct}
+	Called from -  _1zn0185zf line 669  {C:\SIGEF\Sistmedi\menu.mpr menu.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 99  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/08/2008 12:18:13 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/08/2008 12:25:07 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/08/2008 12:28:40 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 30/08/2008 11:44:33 AM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 10/09/2008 03:49:33 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {R:\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 12/09/2008 06:18:50 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {R:\sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07/10/2008 07:20:40 AM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  inicio line 111  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:46 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:48 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:48 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:49 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:50 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:50 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:50 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:51 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:51 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:51 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:51 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:51 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:58 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:35:59 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:00 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:01 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:02 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:03 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:04 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:05 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 07/10/2008 01:36:06 PM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 112  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 10/27/08 09:36:13 AM. Error log file: R:\sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 27/10/2008 09:37:16 AM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  inicio line 111  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 27/10/2008 09:50:17 AM. Error log file: R:\sistmedi\VFP8Rerr.log
+	Called from -  inicio line 111  {R:\sistmedi\inicio.prg r:\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 30/10/2008 12:17:33 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 20  {c:\sigef\sistmedi\pnttnuevo.sct c:\sigef\sistmedi\pnttnuevo.sct}
+	Called from -  formset1.form1.text4.valid line 35  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 09/12/2008 12:58:00 PM. Error log file: C:\SIGEF\Sistmedi\VFP8Rerr.log
+	Called from -  _2fg01waz3 line 553  {C:\SIGEF\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 112  {C:\SIGEF\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/07/2009 04:42:06 PM. Error log file: \\Xperto-9b76d601\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {\\Xperto-9b76d601\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {\\Xperto-9b76d601\C\Sigef\Sistmedi\inicio.prg \\xperto-9b76d601\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 26/07/2009 12:26:33 PM. Error log file: \\Xperto-9b76d601\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {\\Xperto-9b76d601\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {\\Xperto-9b76d601\C\Sigef\Sistmedi\inicio.prg \\xperto-9b76d601\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/09/2009 05:01:54 PM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/09/2009 10:32:10 AM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/09/2009 01:00:59 PM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 17/09/2009 09:04:16 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  inicio line 12  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\inicio.prg \\ahorro-02\ahorro1 (c)\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:04:18 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:04:18 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:41 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:41 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:41 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:41 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:41 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:42 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:43 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:44 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 09/17/09 09:06:45 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 07/10/2009 06:18:47 PM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/10/2009 04:18:13 PM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 14/10/2009 10:41:08 PM. Error log file: \\Ahorro-02\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 26/10/2009 04:47:52 PM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2jz00bxre line 556  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 122  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 25/11/2009 08:28:40 AM. Error log file: \\Ahorro-02\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\ahorro-02\sigef\facturar\ptventasdistrib.sct \\ahorro-02\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _2r61eg1zh line 500  {\\Ahorro-02\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro-02\Sigef\Sistmedi\inicio.prg \\ahorro-02\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 06/01/2010 11:09:29 AM. Error log file: C:\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.text4.valid line 67  {c:\sigef\sistmedi\pnttingrdistrib.sct c:\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _2r61eg1zj line 558  {C:\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {C:\Sigef\Sistmedi\inicio.prg c:\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 10/01/2010 05:39:11 PM. Error log file: \\Ahorro-02\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 27/04/2010 11:21:06 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 28/04/2010 10:46:55 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 6  {\\ahorro-02\ahorro1 (c)\sigef\facturar\ptventasdistrib.sct \\ahorro-02\ahorro1 (c)\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _2r61eg1zh line 500  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\inicio.prg \\ahorro-02\ahorro1 (c)\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 15/05/2010 07:45:15 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\ahorro-02\ahorro1 (c)\sigef\facturar\ptventasdistrib.sct \\ahorro-02\ahorro1 (c)\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _2r61eg1zh line 500  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\inicio.prg \\ahorro-02\ahorro1 (c)\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 26/05/2010 01:25:37 AM. Error log file: \\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  ON...  line 123  {\\Ahorro-02\AHORRO1 (C)\Sigef\Sistmedi\inicio.prg \\ahorro-02\ahorro1 (c)\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 27/05/2010 10:37:51 AM. Error log file: \\Ahorro-02\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {\\Ahorro-02\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro-02\Sigef\Sistmedi\inicio.prg \\ahorro-02\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 13/06/2010 09:50:27 AM. Error log file: \\Ahorro-02\sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 16/06/2010 01:31:05 PM. Error log file: \\Ahorro-02\sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 24/06/2010 10:56:34 AM. Error log file: \\Ahorro-02\sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 29/08/2010 11:05:00 AM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 30/08/2010 06:50:51 PM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zh line 500  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 10/11/2010 06:12:02 PM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zh line 498  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 10/11/2010 06:13:15 PM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zh line 498  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 11/11/2010 10:24:25 AM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zh line 500  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 02/12/2010 07:22:09 AM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 5  {\\ahorro_01\c\sigef\facturar\ptventasdistrib.sct \\ahorro_01\c\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _2r61eg1zh line 500  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/12/2010 06:05:42 PM. Error log file: \\Ahorro_01\C\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _2r61eg1zj line 558  {\\Ahorro_01\C\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 123  {\\Ahorro_01\C\Sigef\Sistmedi\inicio.prg \\ahorro_01\c\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/05/2011 02:21:15 PM. Error log file: \\Bafwk1002\sistema de ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  form1.txtcodi_labo.valid line 20  {\\bafwk1002\sistema de ventas\sigef\sistmedi\pnttnuevo.sct \\bafwk1002\sistema de ventas\sigef\sistmedi\pnttnuevo.sct}
+	Called from -  formset1.form1.text4.valid line 71  {\\bafwk1002\sistema de ventas\sigef\sistmedi\pnttingrdistrib.sct \\bafwk1002\sistema de ventas\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _30e0ofbir line 562  {\\Bafwk1002\sistema de ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\Bafwk1002\sistema de ventas\Sigef\Sistmedi\inicio.prg \\bafwk1002\sistema de ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 04/06/2011 11:28:13 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset1.form1.command7.click line 2  {\\afbtsv1001\sistema_ventas\sigef\sistmedi\pnttingrdistrib.sct \\afbtsv1001\sistema_ventas\sigef\sistmedi\pnttingrdistrib.sct}
+	Called from -  _30e0ofbir line 562  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 04/06/2011 11:32:05 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 06/06/2011 08:58:20 PM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/06/2011 09:03:00 PM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 09/07/2011 12:50:07 PM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 31/08/2011 11:46:37 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 31/08/2011 06:32:24 PM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  form1.command1.click line 59  {\\afbtsv1001\sistema_ventas\sigef\sistmedi\ptrendvend.sct \\afbtsv1001\sistema_ventas\sigef\sistmedi\ptrendvend.sct}
+	Called from -  inicio line 125  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 31/08/2011 09:59:25 PM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000005 @ 01/09/2011 09:42:52 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+
+
+Fatal error: Exception code=C0000006 @ 20/10/2011 07:42:39 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  inicio line 38  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 22/11/2011 05:55:06 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07/12/2011 06:03:54 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 11/12/2011 05:45:39 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:43 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:45 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:46 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:48 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:55 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:55 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:57 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/12/2011 03:38:57 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 18/12/2011 05:59:06 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 31/12/2011 05:51:48 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 05/01/2012 05:46:54 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 12/01/2012 05:37:05 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/01/2012 05:37:09 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.command2.click line 13  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  formset.form1.grid1.column1.text1.keypress line 41  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C000001D @ 14/02/2012 06:33:32 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/02/2012 06:33:33 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/02/2012 06:33:34 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/02/2012 06:33:35 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/02/2012 06:33:36 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 14/02/2012 06:33:39 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 08/03/2012 02:47:43 PM. Error log file: \\Afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbir line 562  {\\Afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\Afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000005 @ 10/03/2012 12:47:55 PM. Error log file: \\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  _30e0ofbip line 504  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 125  {\\AFBTSV1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\sigef.exe}
+
+
+Fatal error: Exception code=C0000006 @ 31/03/2012 07:56:18 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _3fw0v8lty line 517  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 135  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 31/03/2012 07:56:30 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.gradiente.text3.valid line 2  {\\afbtsv1001\sistema_ventas\sigef\sistmedi\pnttclve.sct \\afbtsv1001\sistema_ventas\sigef\sistmedi\pnttclve.sct}
+	Called from -  inicio line 135  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 03/04/2012 11:18:43 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _3fw0v8lty line 517  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 135  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 03/04/2012 11:18:45 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _3fw0v8lty line 517  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 135  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\farmacia.exe}
+
+
+Fatal error: Exception code=C0000006 @ 03/04/2012 11:18:46 AM. Error log file: \\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\VFP8Rerr.log
+	Called from -  formset.form1.grid1.column1.text1.interactivechange line 1  {\\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct \\afbtsv1001\sistema_ventas\sigef\facturar\ptventasdistrib.sct}
+	Called from -  _3fw0v8lty line 517  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\menudist.mpr menudist.mpx}
+	Called from -  ON...  line 0  { }
+	Called from -  inicio line 135  {\\afbtsv1001\Sistema_ventas\Sigef\Sistmedi\inicio.prg \\afbtsv1001\sistema_ventas\sigef\sistmedi\farmacia.exe}

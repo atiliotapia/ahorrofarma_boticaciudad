@@ -1,0 +1,32 @@
+Notas sobre el uso del Software de Control de Existencias:
+
+1.- En cada Orden de Compra o de Servicio deberá registrar los
+productos de una sola partida específica(SOBRE TODO CUANDO
+SE TIENE DESCUENTOS).
+
+
+*El reporte por partidas específicas considera el IGV para 
+*cada producto, es probable que la suma total no coincida con 
+*el total de la orden de compra/servicio por efectos de 
+*redondeo.
+2.- Los descuentos tiene un trato especial, algunas veces 
+escapan del control, es posible que algunos reportes no 
+coincidan, como se detallan a continuación.
+
+3.- El descuento de la Orden de Compra/Servicio al momento de
+registrar el monto se carga a la partida específica que se
+considera en lo campo LO SIGUIENTE, por lo que será 
+necesario cargarlos productos de una sola partida en la O/C y O/S.
+
+4.- El descuento de la Orden de Compra/Servicio al momento de
+realizar el reporte de ejecución se carga a la partida específica
+del primer producto de la orden, por lo que será necesario cargar
+los productos de una sola partida en la O/C y O/S.
+
+5.- Según 3 y 4 es posible que estos valores no coincidan
+en la partida en la cual se afecta.
+
+4.- Al calcular el IGV de cada producto, el descuento total de la
+O/C y O/S se afectará al primer producto, tener cuidado que el
+monto total de este producto de este no sea un valor inferior del 
+descuento total de la orden.

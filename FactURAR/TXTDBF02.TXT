@@ -1,0 +1,590 @@
+Structure for database: C:\SIGEF\FACTURAR\MEDICTDO.DBF
+Code Page             : 850
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  REGISTRO    Numeric        8            Asc   Machine
+    2  NOMBRE      Character     20                  
+    3  FECHA       Date           8            Asc   Machine
+    4  MEDICINA1   Character      7                  
+    5  PREC_UNI1   Numeric        7      2           
+    6  CANTID1     Numeric        3                  
+    7  MEDICINA2   Character      7                  
+    8  PREC_UNI2   Numeric        7      2           
+    9  CANTID2     Numeric        3                  
+   10  MEDICINA3   Character      7                  
+   11  PREC_UNI3   Numeric        7      2           
+   12  CANTID3     Numeric        3                  
+   13  MEDICINA4   Character      7                  
+   14  PREC_UNI4   Numeric        7      2           
+   15  CANTID4     Numeric        3                  
+   16  MEDICINA5   Character      7                  
+   17  PREC_UNI5   Numeric        7      2           
+   18  CANTID5     Numeric        3                  
+   19  MEDICINA6   Character      7                  
+   20  PREC_UNI6   Numeric        7      2           
+   21  CANTID6     Numeric        3                  
+   22  MEDICINA7   Character      7                  
+   23  PREC_UNI7   Numeric        7      2           
+   24  CANTID7     Numeric        3                  
+   25  MEDICINA8   Character      7                  
+   26  PREC_UNI8   Numeric        7      2           
+   27  CANTID8     Numeric        3                  
+   28  MEDICINA9   Character      7                  
+   29  PREC_UNI9   Numeric        7      2           
+   30  CANTID9     Numeric        3                  
+   31  MEDICINA10  Character      7                  
+   32  PREC_UNI10  Numeric        7      2           
+   33  CANTID10    Numeric        3                  
+   34  TIPO_VTA    Character      1                  
+   35  CUENTA_C    Numeric        8                  
+   36  REDONDEO    Numeric        5      2           
+   37  EXONERAR    Numeric        3                  
+   38  SINCOSTO    Character      1                  
+   39  HORA        Character      8                  
+   40  ESTADO      Character      1                  
+   41  DIGITADOR   Character      6                  
+   42  FECHA_ANUL  Date           8                  
+   43  HORA_ANUL   Character      8                  
+   44  DIGI_ANUL   Character      6                  
+** Total **                     262
+
+
+Structure for database: C:\SIGEF\FACTURAR\DETACONV.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CUENTA_C    Numeric        8            Asc   Machine
+    2  FECHA_EMIS  Date           8                  
+    3  FECHA_CANC  Date           8                  
+    4  SERIE_FAC   Character      3                  
+    5  FACTURA     Numeric        8                  
+    6  MONTO       Numeric       12      2           
+    7  DIGITADOR   Character      6                  
+    8  HORA        Character      8                  
+    9  TIPO        Character      1                  
+** Total **                      63
+
+Structure for database: C:\SIGEF\FACTURAR\CUOTASCV.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CUENTA_C    Numeric        8            Asc   Machine
+    2  CONVENIO    Numeric        2                  
+    3  FECHA       Date           8                  
+    4  HORA        Character      8                  
+    5  MONTO       Numeric        9      2           
+    6  MES_DCTO    Numeric        2                  
+    7  ANIO_DCTO   Numeric        4                  
+    8  DIGITADOR   Character      6                  
+    9  FECHA_ANUL  Date           8                  
+   10  DIGI_ANUL   Character      6                  
+   11  HORA_ANUL   Character      8                  
+** Total **                      70
+
+
+Structure for database: C:\SIGEF\FACTURAR\CONVENIO.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CODIGO      Numeric        2            Asc   Machine
+    2  NOMBRE      Character     50                  
+    3  RUC         Character     11                  
+    4  DIRECCION   Character     60                  
+    5  TELEFONO    Character     10                  
+    6  FAX         Character     10                  
+    7  CLAVCONV    Character      2                  
+** Total **                     146
+
+
+Structure for database: C:\SIGEF\FACTURAR\CLASINGR.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CODIGO      Character      8                  
+    2  NOMBRE      Character     30                  
+    3  MONTO       Numeric       10      2           
+** Total **                      49
+
+Structure for database: C:\SIGEF\FACTURAR\MEDIHOSP.DBF
+Code Page             : 850
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  SERIE_FAC   Character      3                  
+    2  FACTURA     Numeric        8                  
+    3  MEDICINA1   Character      7                  
+    4  PREC_MED1   Numeric        9      2           
+    5  CANTIDAD1   Numeric        6      2           
+    6  FECHA       Date           8            Asc   Machine
+    7  HORA        Character      8                  
+    8  EXONERAR    Numeric        5      2           
+    9  DIGITADOR   Character      6                  
+   10  ACTUALIZA   Character      1                  
+   11  ESTADO      Character      1                  
+   12  FECHA_ANUL  Date           8                  
+   13  HORA_ANUL   Character      8                  
+   14  DIGI_ANUL   Character      6                  
+   15  COD_TIENDA  Character      1                  
+** Total **                      86
+
+Structure for database: C:\SIGEF\FACTURAR\MEDELICV.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CUENTA      Numeric        8                  
+    2  FECHA       Date           8                  
+    3  HORA        Character      8                  
+    4  CODIGO      Character      7                  
+    5  CANTIDAD    Numeric        6      2           
+    6  PRECIO      Numeric        9      2           
+    7  RECIBE      Character     30                  
+    8  ENTRAR      Character      1                  
+    9  DIGITADOR   Character      6                  
+   10  FECHA_ANUL  Date           8                  
+   11  HORA_ANUL   Character      8                  
+   12  DIGI_ANUL   Character      6                  
+** Total **                     106
+
+Structure for database: C:\SIGEF\FACTURAR\FACTURA.DBF
+Code Page             : 850
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  SERIE       Character      3                  
+    2  NUMERO      Numeric        8            Asc   Machine
+    3  TIPO        Character      1                  
+    4  REGISTRO    Numeric        8                  
+    5  FECHA_EMIS  Date           8                  
+    6  FECHA       Date           8            Asc   Machine
+    7  NOMBRE      Character     40                  
+    8  SERVICIO    Numeric        2                  
+    9  CONVENIO    Numeric        2                  
+   10  R_U_C       Character     11                  
+   11  DIGITADOR   Character      6                  
+   12  HORA        Character      8                  
+   13  REDONDEO    Numeric        4      2           
+   14  FECHA_ANUL  Date           8                  
+   15  HORA_ANUL   Character      8                  
+   16  DIGI_ANUL   Character      6                  
+   17  TIPO_ANUL   Character      1                  
+** Total **                     133
+
+Structure for database: C:\SIGEF\FACTURAR\PACICONV.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CUENTA_C    Numeric        8            Asc   Machine
+    2  NOMBRE      Character     30            Asc   Machine
+    3  EDAD        Numeric        2                  
+    4  CONVENIO    Numeric        2                  
+    5  DEUDA_PEND  Numeric       12      2           
+    6  LINEA_CRED  Numeric       12      2           
+    7  FECHA_INGR  Date           8                  
+    8  FECHA_ALTA  Date           8            Asc   Machine
+    9  DIGITADOR   Character      6                  
+   10  HORA        Character      8                  
+** Total **                      97
+
+Structure for database: C:\SIGEF\FACTURAR\NUEVPROD.DBF
+Code Page             : 850
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  NOMBRE      Character     50                  
+    2  FORMA       Character     10                  
+    3  CANTIDAD    Numeric       10      2           
+    4  PREC_UNI    Numeric        9      2           
+    5  FECHA       Date           8            Asc   Machine
+    6  CODIGO      Character      7                  
+    7  DIGITADOR   Character      6                  
+    8  HORA        Character      8                  
+    9  ACTUALIZA   Character      1                  
+** Total **                     110
+
+Structure for database: C:\SIGEF\FACTURAR\MEDICINA.DBF
+Code Page             : 850
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  CODIGO      Character      7            Asc   Machine
+    2  NOM_COMER   Character     60            Asc   Machine
+    3  NOM_GENER   Character     60            Asc   Machine
+    4  FORMA       Character     10                  
+    5  COD_LAB     Character      4                  
+    6  LABORATO    Character     20                  
+    7  CANT_STOCK  Numeric        9      2           
+    8  ST_MINIMO   Numeric        5                  
+    9  ST_MAXIMO   Numeric        8                  
+   10  PREC_COMP   Numeric       10      4           
+   11  TOTAL_COMP  Numeric       12      2           
+   12  PREC_VENT   Numeric        9      2           
+   13  PREC_LISTA  Numeric        9      2           
+   14  CONS_PROM   Numeric        5                  
+   15  GANANCIA    Numeric        9      2           
+   16  COD_NACION  Character     14                  
+   17  NEWCODNAC   Character      5                  
+   18  SINCOSTO    Character      1                  
+   19  V_E_N       Character      1                  
+   20  PRECIO_REF  Numeric        8      2           
+   21  PRESENTACI  Numeric        7      2           
+   22  UNID_PRESE  Character      4                  
+** Total **                     278
+
+Structure for database: C:\SIGEF\FACTURAR\TABULADO.DBF
+Code Page             : 0
+Field  Field Name  Type       Width    Dec    Index  Collate
+    1  FECHA       Date           8            Asc   Machine
+    2  DESDE_B_01  Character     12                  
+    3  HASTA_B_01  Character     12                  
+    4  DESDE_B_02  Character     12                  
+    5  HASTA_B_02  Character     12                  
+    6  DESDE_F_01  Character     12                  
+    7  HASTA_F_02  Character     12                  
+    8  SUB_TOTAL   Numeric       12      2           
+    9  DESCUENTO   Numeric       12      2           
+   10  REDONDEO    Numeric       12      2           
+   11  TOTAL_FACT  Numeric       12      2           
+   12  TOTAL_COBR  Numeric       12      2           
+** Total **                     141
+
+
+
+
+
+
+
+
+
+
+
+
+Estructura de la tabla:    TMEDI\DATOS\BALANCES.DBF  
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    CODIGO      Carácter                        7      
+           2    COD_NACION  Carácter                       14      
+           3    C_SALDINIC  Numérico                       12      
+           4    T_SALDINIC  Numérico                       12      
+           5    C_INGRESOS  Numérico                       12      
+           6    T_INGRESOS  Numérico                       12      
+           7    C_SALI_V_C  Numérico                       12      
+           8    T_SALI_V_C  Numérico                       12      
+           9    C_SALI_V_R  Numérico                       12      
+          10    T_SALI_V_R  Numérico                       12      
+          11    C_SALI_E    Numérico                       12      
+          12    T_SALI_E    Numérico                       12      
+          13    C_SALI_D    Numérico                       12      
+          14    T_SALI_D    Numérico                       12      
+          15    C_SALI_T    Numérico                       12      
+          16    T_SALI_T    Numérico                       12      
+          17    C_SALI_O    Numérico                       12      
+          18    T_SALI_O    Numérico                       12      
+          19    C_SALDFINA  Numérico                       12      
+          20    T_SALDFINA  Numérico                       12      
+          21    PRECIO_VTA  Numérico                       10      
+          22    PRECIO_SAL  Numérico                       10      
+          23    MESES       Numérico                        2      
+          24    ANIOS       Numérico                        4      
+** Total **                                               264
+
+Estructura de la tabla:    MEDI\DATOS\CLIENTES.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    CODIGO      Carácter                        4      
+           2    NOMBRE      Carácter                       50      
+           3    R_U_C       Carácter                       11      
+           4    DIRECCION   Carácter                       50      
+           5    TELEFONO1   Carácter                       10      
+           6    TELEFONO2   Carácter                       10      
+           7    FAX         Carácter                       10      
+           8    COD_ZONA    Carácter                        2      
+           9    COD_RUTA    Carácter                        2      
+          10    TIPO        Carácter                        1      
+          11    OBSERVACIO  Memo                            4      
+          12    COD_ESTAB   Carácter                       10      
+** Total **                                               165
+
+Estructura de la tabla:    STMEDI\DATOS\COMPINGR.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    NUMERO      Numérico                        6      
+           2    TIPO        Carácter                        1      
+           3    FECHA       Fecha                           8      
+           4    PROVIENE    Carácter                        4      
+           5    CANTIDAD    Numérico                        2      
+           6    TOTAL       Numérico                       12      
+           7    DIGITADOR   Carácter                        6      
+           8    OBSERVACIO  Memo                            4      
+** Total **                                                44
+
+Estructura de la tabla:    TMEDI\DATOS\COMPSALI.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    NUMERO      Numérico                        6      
+           2    TIPO        Carácter                        1      
+           3    FECHA       Fecha                           8      
+           4    CLIENTE     Carácter                        4      
+           5    CANTIDAD    Numérico                        2      
+           6    PERSONA     Carácter                       30      
+           7    TOTAL       Numérico                       12      
+           8    OBSERVACIO  Memo                            4      
+           9    DIGITADOR   Carácter                        6      
+** Total **                                                74
+
+
+Estructura de la tabla:    STMEDI\DATOS\GRUPTERA.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    CODIGO      Carácter                        2      
+           2    DESCRIPCIO  Carácter                       40      
+           3    TIPO        Carácter                        1      
+           4    OBSERVACIO  Memo                            4      
+           5    TOTATEN     Numérico                        6      
+           6    TOTNOATEN   Numérico                        6      
+** Total **                                                60
+
+Estructura de la tabla:    MEDI\DATOS\INGRMEDI.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    NUMERO      Numérico                        6      
+           2    CODIGO      Carácter                        7      
+           3    PROVEEDOR   Carácter                        4      
+           4    I_CANTIDAD  Numérico                       10      
+           5    I_PRECIO    Numérico                        9      
+           6    I_TOTAL     Numérico                       10      
+           7    I_FVEN      Carácter                        7      
+           8    I_LOTE      Carácter                       10      
+           9    GANANCIA    Numérico                        6      
+          10    PREC_VENT   Numérico                        9      
+          11    CODI_LABO   Carácter                        4      
+          12    ACTUALIZAR  Carácter                        1      
+          13    DIGITADOR   Carácter                        6      
+          14    HORA        DateTime                        8      
+** Total **                                                98
+
+
+Estructura de la tabla:    MEDI\DATOS\INSTITUC.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    CODIGO_EJE  Carácter                        3      
+           2    CODIGO_PRE  Carácter                       11      
+           3    CODIGO_INV  Carácter                        3      
+           4    FORMATO     Carácter                        1      
+           5    PTO_DIGITA  Carácter                       15      
+           6    USUARIO     Carácter                       15      
+** Total **                                                49
+
+Estructura de la tabla:    TMEDI\DATOS\LABORATO.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho      
+           1    CODIGO      Carácter                        4      
+           2    DESCRIPCIO  Carácter                       40      
+           3    OBSERVAC    Memo                            4      
+           4    TIPO        Carácter                        1          
+** Total **                                                50
+
+Estructura de la tabla:    TMEDI\DATOS\MAESMEDI.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    CODIGO      Carácter                        7          
+           2    NOM_COMER   Carácter                       60          
+           3    NOM_GENER   Carácter                       60          
+           4    CONCENTRAC  Carácter                       30          
+           5    FORMA       Carácter                       12          
+           6    MARCA       Carácter                       12          
+           7    COD_LAB     Carácter                        4          
+           8    STOCK       Numérico                        9          
+           9    COSTO       Numérico                        9          
+          10    TOTAL       Numérico                       10          
+          11    CANT1       Numérico                        9          
+          12    FVEN1       Carácter                        7          
+          13    LOTE1       Carácter                       10          
+          14    CANT2       Numérico                        9          
+          15    FVEN2       Carácter                        7          
+          16    LOTE2       Carácter                       10          
+          17    PREC_VENT   Numérico                        9          
+          18    GANANCIA    Numérico                        6          
+          19    ST_MINIMO   Numérico                        6          
+          20    ST_MAXIMO   Numérico                        6          
+          21    COD_NACION  Carácter                       14          
+          22    HORA        DateTime                        8          
+** Total **                                               315
+
+Estructura de la tabla:    MEDI\DATOS\MEDINACI.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    CODIGO      Carácter                        5          
+           2    MEDICAMENT  Carácter                       65          
+           3    PRESENTACI  Carácter                       16          
+           4    CONCENTRAC  Carácter                       50          
+           5    TIPO        Carácter                        1          
+           6    PETITORIO   Carácter                        1          
+           7    FF          Carácter                       10          
+           8    ESTRATEGIC  Carácter                        1          
+           9    PS          Carácter                        1          
+          10    CS          Carácter                        1          
+          11    HI          Carácter                        1          
+          12    ACTIVO      Carácter                        1          
+          13    FECHAUPD    Fecha                           8          
+          14    CODIGO_PTO  Carácter                       15          
+** Total **                                               177
+
+Estructura de la tabla:    TMEDI\DATOS\MEDINOAT.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    CODIGO      Carácter                        7          
+           2    NOM_COMER   Carácter                       60          
+           3    NOM_ESPEC   Carácter                       60          
+           4    FORMA       Carácter                       10          
+           5    COD_LAB     Carácter                        4          
+           6    LABORAT     Carácter                       20          
+           7    CANT_STOCK  Numérico                        9          
+           8    PREC_VENT   Numérico                        9          
+           9    COD_NACION  Carácter                       14          
+          10    NEWCODNAC   Numérico                        6          
+** Total **                                               200
+
+Estructura de la tabla:    TMEDI\DATOS\MOVIVENT.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    NUMERO      Numérico                        8          
+           2    FECHA       Fecha                           8          
+           3    COD_MED     Carácter                        7          
+           4    PREC_MED    Numérico                        8          
+           5    CANT_MED    Numérico                        6          
+           6    MEDICO      Numérico                        6          
+           7    DIGITADOR   Carácter                        6          
+           8    TIPO        Carácter                       10          
+           9    SUBTIPO     Carácter                        1          
+** Total **                                                61
+
+Estructura de la tabla:    STMEDI\DATOS\NUMEROS.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    NUMERO      Numérico                        3          
+           2    NOMBRE      Carácter                       15          
+           3    NOMADIC     Carácter                       15          
+** Total **                                                34
+
+Estructura de la tabla:    STMEDI\DATOS\PROVEEDO.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    CODIGO      Carácter                        4          
+           2    NOMBRE      Carácter                       50          
+           3    R_U_C       Carácter                       11          
+           4    DIRECCION   Carácter                       50          
+           5    TELEFONO1   Carácter                       10          
+           6    TELEFONO2   Carácter                       10          
+           7    FAX         Carácter                       10          
+           8    TIPO        Carácter                        1          
+           9    OBSERVACIO  Memo                            4          
+** Total **                                               151
+
+
+Estructura de la tabla:    MEDI\DATOS\REPIND02.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    EDAD01      Numérico                        2          
+           2    EDAD02      Numérico                        2          
+           3    CANTIDAD_M  Numérico                        6          
+           4    CANTIDAD_F  Numérico                        6          
+           5    PERMANE_M   Numérico                        6          
+           6    PERMANE_F   Numérico                        6          
+           7    MTOATEN_M   Numérico                        8          
+           8    MTOATEN_F   Numérico                        8          
+           9    MTOMEDI_M   Numérico                        8          
+          10    MTOMEDI_F   Numérico                        8          
+          11    MTOHOSP_M   Numérico                        8          
+          12    MTOHOSP_F   Numérico                        8          
+** Total **                                                77
+
+Estructura de la tabla:    EDI\DATOS\SALIMEDI.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    NUMERO      Numérico                        6          
+           2    CODIGO      Carácter                        7          
+           3    DESTINO     Carácter                        3          
+           4    S_CANTIDAD  Numérico                       10          
+           5    S_PRECIO    Numérico                       11          
+           6    S_TOTAL     Numérico                       12          
+           7    S_FVEN      Carácter                        7          
+           8    S_LOTE      Carácter                       10          
+           9    PREC_VENTA  Numérico                       11          
+          10    TOT_VENTA   Numérico                       12          
+          11    ACTUALIZAR  Carácter                        1          
+          12    DIGITADOR   Carácter                        6          
+          13    HORA        DateTime                        8          
+** Total **                                               105
+
+
+Estructura de la tabla:    MEDI\DATOS\TIPOMEDI.DBF
+Nº registros de datos:     
+Última actualización:      
+     Tamaño memo (bloques):
+  Página de códigos:       
+       Campo    Nombre de c Tipo                        Ancho          
+           1    CODIGO      Carácter                        1          
+           2    DESCRIPCIO  Carácter                       25          
+           3    TIPO        Carácter                        1          
+           4    OBSERVACIO  Memo                           10          
+           5    SINCOSTO    Carácter                        1          
+           6    CANTIDAD    Numérico                        6          
+** Total **                                                45
+
+
+Estructura de la tabla:    STMEDI\DATOS\TPCPINGR.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c  Tipo                    Ancho 
+           1    CODIGO       Carácter                    1 
+           2    NOMBRE       Carácter                   40 
+           3    CTA4         Carácter                   12 
+           4    CUENTA       Carácter                   25 
+           5    TIPORI       Carácter                    1 
+           6    FINANCIERA   Carácter                   30 
+           7    AUTOCORR     Carácter                    1 
+           8    NUMECORR     Numérico                    6 
+** Total **                                            117
+
+Estructura de la tabla:    TMEDI\DATOS\TPCPSALI.DBF
+Nº registros de datos:     
+Última actualización:      
+  Página de códigos:       
+       Campo    Nombre de c  Tipo                    Ancho 
+           1    CODIGO       Carácter                    1 
+           2    NOMBRE       Carácter                   40 
+           3    CUENTA       Carácter                   25 
+           4    FINANCIERA   Carácter                   30 
+           5    AUTOCORR     Carácter                    1 
+           6    NUMECORR     Numérico                    6 
+** Total **                                            104
+
+
+
+
+
+
