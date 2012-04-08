@@ -1,0 +1,274 @@
+****************************************************************
+                      MICROSOFT SQL SERVER
+      CONTROLADOR ODBC DE MICROSOFT SQL SERVER VERSION 3.6
+                 ARCHIVO LÉAME DE INSTALACIÓN 
+****************************************************************
+
+(c) 1998 Microsoft Corporation. Reservados todos los derechos.
+
+Este archivo describe el uso del controlador ODBC de Microsoft SQL 
+Server versión 3.6 con los servidores SQL de Microsoft versión 6.5 o 
+anterior.
+
+Los temas tratados son:
+
+1. Introducción
+2. Instalación de Instcat.sql en el servidor
+3. Obtención de las bibliotecas de red del cliente de SQL Server
+4. Fuentes documentales referentes al uso de ODBC con SQL Server
+5. Uso del controlador en un entorno de desarrollo
+6. Problemas de compatibilidad
+
+****************************************************************
+1. Introducción
+
+La versión 3.6 del controlador ODBC de Microsoft SQL Server es una 
+versión de Win32. Se puede usar con aplicaciones escritas para las 
+API de ODBC 2.X o de ODBC 3.X. El controlador funciona con Microsoft 
+SQL Server versión 4.21a o posterior. El controlador se puede ejecutar 
+tanto en Windows 95 como en Windows NT (versión 4.0 o posterior).
+
+También hay instalada una nueva versión de la utilidad Configuración 
+del cliente de SQL Server de Win 32 con la versión 3.6 del controlador 
+ODBC de SQL Server. Esta utilidad de Configuración del cliente de SQL 
+Server se puede utilizar con Microsoft SQL Server versión 4.21a o 
+posterior y con las bibliotecas de red del cliente incluidas con esas 
+versiones de SQL Server.
+
+****************************************************************
+2. Instalación de Instcat.sql en el servidor
+
+El controlador ODBC de SQL Server utiliza un conjunto de 
+procedimientos almacenados de sistema, conocido como procedimientos 
+almacenados de catálogo, para obtener información del catálogo de 
+sistema de SQL Server. Cada versión del controlador ODBC de Microsoft 
+SQL Server se ha desarrollado para que funcione con una versión 
+determinada de los procedimientos almacenados de catálogo. El archivo 
+Instcat.sql incluido con la versión 3.6 del controlador ODBC de SQL 
+Server incluye ligeras modificaciones en los procedimientos 
+almacenados de catálogo que actualizan los procedimientos a las 
+versiones utilizadas por este controlador. El administrador del 
+sistema SQL Server debe usar la secuencia Instcat.sql para actualizar 
+los procedimientos almacenados de catálogo y asegurar el 
+funcionamiento correcto del controlador. La actualización de los 
+procedimientos almacenados de catálogo no afecta al funcionamiento de 
+los clientes de SQL Server más antiguos. Esto se debe hacer con todas 
+las versiones de Microsoft SQL Server, desde 4.21a a 6.5.
+
+Para actualizar los procedimientos almacenados de catálogo, el 
+administrador del sistema ejecuta una secuencia utilizando la utilidad 
+isql (vea las siguientes instrucciones). Antes de hacer cambios en la 
+base de datos principal, el administrador del sistema debe hacer una 
+copia de seguridad de la misma. Para ejecutar isql, el equipo debe 
+estar instalado como una estación de trabajo cliente de Microsoft SQL 
+Server.
+
+Junto al símbolo del sistema, use la utilidad isql para ejecutar la 
+secuencia Instcat.sql. Por ejemplo:
+
+C:> ISQL /Usa /Psa_contraseña /Snombre_de_servidor /iubicación\Instcat.Sql
+
+donde
+sa_contraseña 
+	Es la contraseña del administrador del sistema.
+nombre_de_servidor 
+	Es el nombre del servidor en el que reside SQL Server.
+ubicación 
+	Es la ruta de acceso completa a la ubicación de Instcat.Sql.
+
+La secuencia Instcat.sql genera muchos mensajes. La mayoría de éstos 
+indican a cuántas filas afectan las instrucciones Transact-SQL 
+emitidas por la secuencia. Se puede ignorar la mayoría de estos 
+mensajes, aunque se debe inspeccionar el resultado por si alguno de 
+ellos indica un error de ejecución. Cuando se ejecuta Instcat.sql 
+frente a un servidor SQL versión 6.0, se puede ignorar el mensaje que 
+indica que el objeto sp_MS_upd_sysobj_category no existe. El último 
+mensaje debe indicar que Instcat.sql se ha completado 
+satisfactoriamente. La secuencia Instcat.sql da error cuando no hay 
+suficiente espacio disponible en la base de datos principal para 
+almacenar los procedimientos almacenados de catálogo o para registrar 
+los cambios en los procedimientos existentes.
+
+****************************************************************
+3. Obtención de las bibliotecas de red del cliente de SQL Server
+
+El controlador ODBC de Microsoft SQL Server usa las bibliotecas de red 
+del cliente de Microsoft SQL Server para comunicar con el servidor. La 
+versión 3.6 del controlador ODBC de SQL Server utiliza también la 
+utilidad Configuración del cliente de SQL Server para administrar la 
+biblioteca de red asociada con un origen de datos ODBC.
+
+La versión 3.6 del controlador ODBC de SQL Server instala solamente 
+una biblioteca de red, la biblioteca de red de canalización con nombre 
+de Win32, Dbnmpntw.dll.
+
+Puede utilizar la versión 3.6 del controlador ODBC de SQL Server con 
+bibliotecas de red de Win32 más antiguas. Si para conectar con SQL 
+Server es necesaria una biblioteca de red de canalización con nombre 
+distinta, puede utilizar la biblioteca de red incluida con la versión 
+de Microsoft SQL Server. Puede obtener las bibliotecas de red de SQL 
+Server instalando las utilidades del cliente de SQL Server de Win32 
+incluidas en la versión de Microsoft SQL Server.
+
+La versión de la utilidad Configuración del cliente de SQL Server 
+instalada con la versión 3.6 del controlador ODBC de SQL Server se 
+puede usar con las bibliotecas de red de cliente de SQL Server 4.21a 
+o versiones posteriores.
+
+****************************************************************
+4. Fuentes documentales referentes al uso de ODBC con SQL Server
+
+La versión 3.6 del controlador ODBC de Microsoft SQL Server se ajusta 
+a la documentación existente de SQL Server 6.5 en lo que se refiere a 
+información específica acerca del controlador. Para obtener información 
+acerca de las características específicas del controlador, vea los 
+manuales de SQL Server y los libros en pantalla.
+
+La versión 3.6 del controlador ODBC de Microsoft SQL Server se ajusta 
+también a la información adicional relativa al controlador descrita en 
+la nota técnica "Using ODBC with Microsoft SQL Server," disponible en 
+el sitio Web de Microsoft, en:
+
+http://www.microsoft.com/sql/reskit.htm
+
+El archivo Sqlsodbc.hlp incluido con la versión 3.6 del controlador 
+ODBC de SQL Server contiene solamente ayuda contextual referente al 
+asistente para orígenes de datos ODBC de SQL Server. El archivo 
+Drvssrvr.hlp incluido con versiones anteriores del controlador ODBC de 
+Microsoft SQL Server contenía información específica del controlador 
+en relación con versiones anteriores del mismo. La información 
+contenida en versiones anteriores del archivo Drvssrvr.hlp se ha 
+copiado en el manual de SQL Server 6.5 "Programming ODBC for Microsoft 
+SQL Server."
+
+****************************************************************
+5. Uso del controlador en un entorno de desarrollo
+
+El controlador ODBC de Microsoft SQL Server utiliza parámetros 
+específicos del controlador para distintas llamadas a funciones ODBC. 
+Las definiciones de estos parámetros específicos del controlador y de 
+las estructuras de programación de C y C++ están incluidas en el 
+archivo Odbcss.h.
+
+La versión 3.6 del controlador ODBC de SQL Server funciona con el 
+archivo Odbss.h que se proporciona en las siguientes fuentes:
+
+SQL Server Service Pack 2 (SP2) o posterior.
+        El paquete se puede descargar desde el sitio Web de Microsoft
+        en http://www.microsoft.com/sql/ServicePak.htm.
+
+ODBC 3.0 SDK.
+        El SDK de ODBC 3.0 SDK forma parte de Microsoft Developer
+        Network Professional edition. El SDK se puede descargar desde
+        el sitio Web de Microsoft en http://www.microsoft.com/odbc. El
+        SDK también está disponible en Microsoft Press, en "Microsoft
+        ODBC 3.0 Software Development Kit and Programmer's Reference."
+
+****************************************************************
+6. Problemas de compatibilidad
+
+La versión 3.6 del controlador ODBC de SQL Server muestra un nuevo 
+asistente al agregar o configurar orígenes de datos en la utilidad 
+Administrador de ODBC, o cuando una aplicación llama a 
+SQLConfigDataSource y pide al controlador que solicite información al 
+usuario. Haga clic en el botón Ayuda del asistente para tener 
+acceso a la documentación del mismo.
+
+En la versión 2.65 del controlador ODBC de SQL Server incluido con
+SQL Server 6.5, SQL_COPT_SS_PERF_QUERY_INTERVAL funcionaba en segundos, 
+en vez de en milésimas de segundo, según se indicaba en la 
+documentación (vea el artículo Q157753 de la Base de conocimientos). 
+En la versión 3.6 del controlador ODBC de SQL Server, 
+SQL_COPT_SS_PERF_QUERY_INTERVAL ha cambiado y funciona en milésimas 
+de segundo, como se indica en la documentación.
+
+Los cambios siguientes afectan solamente a las aplicaciones escritas 
+con la API 3.X de ODBC. No afectan a las aplicaciones escritas con la 
+API 2.X de ODBC. Estos cambios no deben afectar al procesamiento del 
+conjunto de resultados en la mayoría de las aplicaciones ODBC.
+
+En versiones anteriores del controlador ODBC de SQL Server, las 
+instrucciones PRINT o RAISERROR contiguas de un procedimiento 
+almacenado o por lotes devolvían sus mensajes a la vez, en un conjunto 
+de resultados. En la versión 3.6 del controlador ODBC de SQL Server, 
+los mensajes de cada instrucción SQL se devuelven en conjuntos de 
+resultados diferentes. Debe llamar a SQLMoreResults entre cada mensaje 
+para situarse en el mensaje de la siguiente instrucción SQL. Todos los 
+mensajes de una instrucción SQL individual, como un instrucción DBCC, 
+se devuelven en un solo conjunto de resultados y no es necesario llamar 
+a SQLMoreResults entre cada mensaje.
+
+En versiones anteriores del controlador ODBC de SQL Server, un error 
+en tiempo de ejecución o un RAISERROR con una gravedad 11 o mayor en 
+la primera instrucción de un procedimiento, almacenado o por lotes, 
+producía que tanto SQLExecute como SQLExecDirect o SQLParamData 
+devolviesen siempre SQL_ERROR. En la versión 3.6 del controlador ODBC 
+de SQL Server, SQLExecute, SQLExecDirect o SQLParamData solamente 
+devuelven SQL_ERROR si no se ejecutan otras instrucciones después de 
+la primera instrucción. Si se ejecutan otras instrucciones después de 
+la primera, incluso una simple instrucción RETURN sin valor de 
+retorno, entonces SQLExecute o SQLExecDirect devuelven 
+SQL_SUCCESS_WITH_INFO. Después de procesar los mensajes de 
+SQL_SUCCESS_WITH_INFO con SQLGetDiagRec, llame a SQLMoreResults para 
+situarse en el siguiente conjunto de resultados.
+
+Cuando las versiones anteriores del controlador encontraban un error 
+en la primera instrucción de un procedimiento almacenado o por lotes, 
+el controlador de instrucciones estaba disponible para que se pudiera 
+utilizar con otra instrucción SQL después de que SQLExecute o 
+SQLExecDirect devolviesen SQL_ERROR. Cuando el controlador 3.6  
+devuelve SQL_SUCCESS_WITH_INFO, la instrucción no queda liberada para 
+procesar otra instrucción SQL hasta que SQLMoreResults devuelve 
+SQL_NO_DATA o hasta que todos los conjuntos de resultados que siguen a 
+RAISERROR se han cerrado. Si al mensaje de error no le sigue un 
+conjunto de resultados, no se puede llamar a SQLCloseCursor; hay que 
+llamar a SQLFreeStmt(SQL_CLOSE) o a SQLMoreResults para liberar al 
+controlador de instrucciones, y procesar otra instrucción SQL:
+
+CREATE PROCEDURE TestPrc @Parm1 as
+IF (@Parm1 IS NULL)
+BEGIN
+	RAISERROR ('Parm1 no puede ser NULO', 11, 1)
+	RETURN
+END
+SELECT * FROM sysusers WHERE suid = @Parm1
+GO
+
+Ejecute lo siguiente:
+
+SQLExecDirect(hstmt, "{ call TestPrc (NULL) }", SQL_NTS);
+
+Cuando se utiliza una versión anterior del controlador ODBC, o 
+si la aplicación utiliza la API 2.X de ODBC, SQLExecDirect devuelve 
+SQL_ERROR. Una vez que SQLGetDiagRec devuelve SQL_NO_DATA o SQLError 
+devuelve SQL_NO_DATA_FOUND, el controlador de instrucciones queda 
+libre para ejecutar otra instrucción SQL.
+
+Cuando se utiliza la versión 3.6 del controlador ODBC de SQL Server 
+desde una aplicación escrita para la API 3.X de ODBC, SQLExecDirect
+devuelve SQL_SUCCESS_WITH_INFO. Después de que SQLGetDiagRec devuelve 
+SQL_NO_DATA, no se puede utilizar el controlador de instrucciones para 
+procesar otra instrucción SQL hasta que SQLMoreResults devuelve 
+SQL_NO_DATA o se llama a SQLFreeStmt(SQL_CLOSE).
+
+En versiones anteriores del controlador ODBC de SQL Server, 
+SQLExecute, SQLExecDirect o SQLParamData devuelven SQL_SUCCESS cuando 
+una aplicación ejecuta una instrucción de búsqueda UPDATE o DELETE que 
+no afecta a ninguna fila. En este caso, la versión 3.6 del controlador 
+devuelve aún SQL_SUCCESS con las aplicaciones escritas con la API 2.x 
+de ODBC, pero devuelve SQL_NO_DATA con las aplicaciones escritas con 
+la API 3.X de ODBC. Tanto si la aplicación ODBC 2.X, que recibe 
+SQL_SUCCESS, como si la aplicación ODBC 3.X, que recibe SQL_NO_DATA, 
+llaman después a SQLRowCount, SQLRowCount devuelve un recuento de cero.
+
+ODBC 3.X define con mayor claridad el modo de devolver los resultados 
+que ODBC 2.X. Versiones anteriores del controlador ODBC de SQL Server 
+devolvían los valores de los parámetros de salida y los códigos de 
+retorno cuando las funciones SQLFetch o SQLExtendedFetch de ODBC 2.X 
+devolvían SQL_NO_DATA en el último conjunto de resultados devuelto por 
+un procedimiento almacenado. El controlador de la versión 3.6 sigue 
+actuando así cuando es llamado por aplicaciones de ODBC 2.X; no 
+obstante, cuando es llamado por aplicaciones de ODBC 3.X, no devuelve 
+parámetros de salida o códigos de retorno hasta que SQLMoreResults
+devuelve SQL_NO_DATA.
+****************************************************************

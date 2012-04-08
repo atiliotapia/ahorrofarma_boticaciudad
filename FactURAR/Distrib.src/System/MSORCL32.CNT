@@ -1,0 +1,30 @@
+:Base MSORCL32.hlp
+:Title Controlador ODBC para Oracle de Microsoft 
+1 Novedades=Whats_New
+1 Introducción=IDH_Overview>main
+1 Configurar el Controlador ODBC para Oracle de Microsoft
+2 Requisitos del sistema=System_Requirements>main
+1 Utilizar el Controlador ODBC para Oracle de Microsoft
+2 Agregar y modificar orígenes de datos mediante Instalar=Adding_and_Modifying_Data_Sources_Using_Setup>main
+2 Configurar el controlador ODBC de Oracle=Configuring_the_Oracle_ODBC_Driver>main
+2 Conectar a un origen de datos=Connecting_to_a_Data_Source>main
+2 Atributos de la cadena de conexión=Connection_String_Attributes>main
+1 Referencia técnica
+2 Niveles de conformidad con ODBC=ODBC_Conformance_Levels>main
+2 Niveles de conformidad con SQL=SQL_Conformance_Levels
+2 Asignar tipos de datos=Mapping_Data_Types>main
+2 Temas avanzados
+3 Utilizar Microsoft Transaction Server=Using_Microsoft_Transaction_Server
+3 Utilizar Microsoft Internet Information Server=Using_Microsoft_Internet_Information_Server>main
+3 Utilizar la autenticación del sistema operativo=Using_Operating_System_Authentication>main
+3 Limitaciones en el uso de cursores controlados por conjuntos de claves=Limitations_of_Using_Keyset-Driven_Cursors>main
+3 Devolver parámetros de matrices desde procedimientos almacenados=Returning_Array_Parameters_from_Stored_Procedures>main
+3 Tabla de opciones de conexión=Connect_Options_Table>main
+3 Tabla de opciones de instrucciones=Statement_Options_Table>main
+3 Tabla de tipos de cursor y combinaciones de concurrencia=Cursor_Type_and_Concurrency_Combinations_Table>main
+3 Funciones API
+4 Notas sobre seguridad de subprocesos en funciones de la API=Thread-Safety_Notes_on_API_Functions>main
+4 Funciones de la API de nivel Base=Core_Level_Functions
+4 Funciones de la API de nivel 1=Level_1_Functions
+4 Funciones de la API de nivel 2=Level_2_Functions
+1 Mensajes de error=Error_Messages>main

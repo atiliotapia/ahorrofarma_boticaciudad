@@ -1,0 +1,43 @@
+
+		
+[Windows 95 Params]
+	WndTitle    = CONTROL DE ASISTENCIA
+	WndMess     = Inicializando la instalación...
+	TmpDirSize  = 500
+	TmpDirName  = ~msstfqf.t
+	CmdLine     = acmsetup /T setup.stf 
+	DrvWinClass = Stuff-Shell
+	Require31   = Este programa requiere Windows 95, o Windows NT 3.51 o posterior.
+	DrvModName = ACMSETUP
+	CabinetFile = SETUP1.CAB
+
+[Windows 95 Files]
+	acmsetup.exe = acmsetup.exe
+	acmsetup.hlp = acmsetup.hlp
+	mssetup.dll = mssetup.dll
+	msvcrt40.dll = msvcrt40.dll
+	msvcrt.dll = msvcrt.dll
+	setup.stf = setup.stf
+	setup.inf = setup.inf
+	wizset32.dll = wizset32.dll
+
+[NT3.51 Intel Params]
+	WndTitle    = CONTROL DE ASISTENCIA
+	WndMess     = Inicializando la instalación...
+	TmpDirSize  = 500
+	TmpDirName  = ~msstfqf.t
+	CmdLine     = acmsetup /T setup.stf 
+	DrvWinClass = Stuff-Shell
+	Require31   = Este programa requiere Windows 95, o Windows NT 3.51 o posterior.
+	DrvModName  = ACMSETUP
+	CabinetFile = SETUP1.CAB
+
+[NT3.51 Intel Files]
+	acmsetup.exe = acmsetup.exe
+	acmsetup.hlp = acmsetup.hlp
+	mssetup.dll = mssetup.dll
+	msvcrt40.dll = msvcrt40.dll
+	msvcrt.dll = msvcrt.dll
+	setup.stf = setup.stf
+	setup.inf = setup.inf
+	wizset32.dll = wizset32.dll
