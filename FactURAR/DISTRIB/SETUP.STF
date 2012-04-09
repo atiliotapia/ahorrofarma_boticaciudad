@@ -1,0 +1,66 @@
+App Name   	CONTROL DE ASISTENCIA
+App Version	2004-12-14 22:52:13
+Frame Caption	CONTROL DE ASISTENCIA Instalar
+Dialog Caption Base	CONTROL DE ASISTENCIA
+Usage String	Uso:  Instalación
+About Box String	Derechs Reservados\n\nEsta instalación se ha creado mediante el Asistente para instalar de Visual FoxPro.
+Check Modules	"Fox_4000001,Microsoft Visual FoxPro, graph, MS Graph, ed, MS Draw, msinfo, MS Info, MSOfficeWClass, Microsoft Office Manager, MOM Class, Office Shortcut Bar"
+MSAPPS Mode	local
+Suppress Serial Number Dialog
+Inf File Name	SETUP.INF
+Maximum Object ID	50
+Floppy Mode Root Object ID	2 : 1
+Maintenance Mode Root Object ID	3 : 1
+Batch Mode Root Object ID	2 : 1
+Setup Version	3.0.0.0
+
+ObjID	Install During Batch Mode	Title	Descr	Type	Data	Bmp Id	Vital	Shared	Dir Chang	Dest Dir	Check Directory
+1			Search for previous versions.	AppSearch	"""C:\RELOJ\"", """", """", 12, ""yes"", ""yes"","					
+2		Floppy Installation		AppMainDlg	5				Yes	
+3		Maintenance Installation		CustomDlg	7					
+4										
+5	Yes		Instalar todos los archivos para CONTROL DE ASISTENCIA	Group	7	"wizset32.dll, 111"				
+6										
+7	Yes	CONTROL DE ASISTENCIA	CONTROL DE ASISTENCIA se instalará.	Group	8 9 13 12 10 16 11 14 17					
+8			*** CONTROL DE ASISTENCIA Files	CopyFile	"Application,_1EH1D0NCC"		vital			
+9			*** CONTROL DE ASISTENCIA Files	CopySection	Application		vital			
+10			Visual Foxpro Runtime	Group	36 37 38 40 41					
+11			Miscellanous files	Group	20 21		vital			
+12			OLEAUT32 System	Group	24 25 27 28 30 31		vital			
+13		Setup Message	Installation of this product requires system administrator privileges.	CustomAction	"wizset32.dll, DetectAdminPrivileges"					
+14			*** Post Setup Executable	Group	15					
+15			Post Setup Executable	CustomAction	"""wizset32.dll"", ""ExecutePostSetupCommand"", ""RELOJ.EXE"""					
+16			VC Runtime	Group	33 34		vital			
+17			Uninstall	Group	44 45 46 47 48 49					
+18										
+19										
+20	Yes			CopyFile	"Misc,RelojIco"					%D
+21	Yes			CopyFile	"Misc,RelojExe"					%D
+22										
+23										
+24	Yes			InstallSysFile	"System,Oleaut32Dll"					
+25	Yes	OLEAUT32.DLL		Depend	24 ? 26					
+26	Yes	OLEAUT32.DLL		SelfReg	"System,Oleaut32Dll"					%M
+27	Yes			InstallSysFile	"System,Olepro32Dll"					
+28	Yes	OLEPRO32.DLL		Depend	27 ? 29					
+29	Yes	OLEPRO32.DLL		SelfReg	"System,Olepro32Dll"					%M
+30	Yes			InstallSysFile	"System,AsycfiltDll"					
+31	Yes			InstallSysFile	"System,Stdole2Tlb"					
+32										
+33	Yes			InstallSysFile	"VC Runtime,MsvcrtDll"					
+34	Yes			InstallSysFile	"VC Runtime,Msvcrt40Dll"					
+35										
+36	Yes			InstallSysFile	"VFP Runtime,Vfp6renuDll"					
+37	Yes			InstallSysFile	"VFP Runtime,Vfp6runExe"					
+38	Yes	VFP6RUN.EXE		Depend	37 ? 39					
+39	Yes	VFP6RUN.EXE		CustomAction	"""wizset32.dll"",""ExecutePostSetupCommand"",""VFP6RUN.EXE /RegServer"""					%M
+40	Yes			InstallSysFile	"VFP Runtime,Vfp6rDll"					
+41	Yes	VFP6R.DLL		Depend	40 ? 42					
+42	Yes	VFP6R.DLL		SelfReg	"VFP Runtime,Vfp6rDll"					%M
+43										
+44				AddRegData	"LOCAL,Software\Microsoft\Windows\CurrentVersion\Uninstall\CONTROL DE ASISTENCIA ,DisplayName,CONTROL DE ASISTENCIA ,REG_SZ"					
+45				AddRegData	"LOCAL,Software\Microsoft\Windows\CurrentVersion\Uninstall\CONTROL DE ASISTENCIA ,UninstallString,%s\setup\setup.exe,REG_SZ"					%d
+46				CopySection	"Setup"					%d\setup
+47				CopyFile	"VC Runtime,Msvcrt40Dll"					%d\setup
+48				CopyFile	"VC Runtime,MsvcrtDll"					%d\setup
+49				WriteTableFile	"setup.stf"					%d\setup

@@ -1,0 +1,41 @@
+Notas acerca del Asistente para aplicaciones
+
+
+El código del programa principal de la aplicación se basa en una plantilla almacenada en la tabla APPWIZ.DBF. Si abre esta tabla, verá un registro en el que el campo Type contiene las palabras "STARTUP PROGRAM." La plantilla para el programa principal de la aplicación se encuentra en el campo Data1 de dicho registro (un campo memo).
+
+En la plantilla del programa, verá marcadores de posición para los datos que rellenan el Asistente para aplicaciones. Los marcadores de posición están encerrados entre *< y >*. Por ejemplo, *<Initialize>* es un marcador de posición. Si compara el contenido de Data1 con un programa principal generado por el Asistente para aplicaciones, puede ver que está reemplazada la línea *<Initialize>* por las siguientes líneas:
+
+
+	goApp.SetCaption("test")
+	goApp.cStartupMenu="d:\foo\menus\test"
+	goApp.cStartupForm="forms\test"
+
+
+Al elegir Finalizar, las entradas del Asistente para aplicaciones determinan los valores específicos que se usan para rellenar las líneas. 
+
+Puede cambiar la plantilla del programa según sus necesidades. Además, puede cambiar el programa finalizado en la aplicación generada, y así se ahorrará el problema de tener que volver a ejecutar el Asistente para aplicaciones.
+
+El Asistente para aplicaciones genera el menú principal de la aplicación (project.MNX) a partir de la plantilla denominada APPWIZ.MNX.
+
+Todos los archivos APPWIZ.* se instalan (con el código fuente) en el directorio WIZARDS de Visual FoxPro. Puede modificar estos archivos según le convenga para tener el control sobre cómo genera las aplicaciones el Asistente para aplicaciones. 
+
+En APPWIZ.DBF se almacena información adicional, como los nombres de los directorios que crea el asistente (LIBS, DATA, FORMS, etc.). Puede modificar los registros en el archivo APPWIZ.DBF para configurar la aplicación. Por ejemplo, para cambiar el nombre del directorio en el que el asistente almacena los formularios, modifique el registro que contiene "FORMS DIRECTORY" en el campo Type. En el campo Data1, escriba un nombre nuevo. Si cambia el nombre a "mis_formularios", el asistente almacenará los formularios en una ruta de acceso como \MYAPP\MIS_FORMULARIOS\TEST.SCX en lugar de la ruta predeterminada \MYAPP\FORMS\TEST.SCX.
+
+A continuación se describen los archivos que usa el Asistente para aplicaciones.
+
+WZAPP.APP. Asistente para aplicaciones.
+
+APPWIZ.PJX (y APPWIZ.PJT). Plantilla que se usa para crear el proyecto en la aplicación nueva.
+
+APPWIZ.DBF (y APPWIZ.FPT). Repositorio para las preferencias el Asistente para aplicaciones.
+
+APPWIZ.MNX (y APPWIZ.MNT). Menú de plantillas que se usan para crear el menú principal en la aplicación nueva.
+
+APPWIZ.VCX (y APPWIZ.VCT). Biblioteca de clases que contiene todas las clases de referencia de la aplicación.
+
+APPWIZ.H. Archivo de encabezado de plantillas que se copia al proyecto nuevo (sin incluir marcas); ningún archivo de proyecto hace referencia a este archivo automáticamente.
+
+WZAPP.TXT. Este archivo de texto.
+
+
+Si reinstala Visual FoxPro, sobrescribirá los cambios que ha realizado en estos archivos; por tanto, realice una copia de seguridad después de modificarlos. Los archivos que modificará con más frecuencia son APPWIZ.DBF (y APPWIZ.FPT), que no sólo contienen la plantilla de inicio de programa, sino otras configuraciones acerca de la plantilla de base de datos, incluyendo nombres de directorios personalizados.

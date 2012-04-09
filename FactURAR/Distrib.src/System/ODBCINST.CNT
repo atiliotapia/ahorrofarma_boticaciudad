@@ -1,0 +1,9 @@
+:Base odbcinst.hlp
+:Title Ayuda de ODBC
+:Index Ayuda de ODBC=odbcinst.hlp
+1 Ficha DSN de usuario=User_DSN_Tab>ref
+1 Ficha DSN de sistema=System_DSN_Tab>ref
+1 Ficha DSN de archivo=File_DSN_Tab>ref
+1 Ficha Controladores ODBC=ODBC_Drivers_Tab>ref
+1 Ficha Seguimiento=Tracing_Tab>ref
+1 Ficha Acerca de=About_Tab>ref
